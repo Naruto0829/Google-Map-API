@@ -14,23 +14,27 @@ app.get('/', (req, res) => {
     res.sendFile('index.html',  { root: __dirname }); 
 });
 
-app.get("/getAirPollutions", async (req, res) => {
+app.get("/getAirPollutions", (req, res) => {
    
     const fromYear = req.query.fromYear;
     const toYear = req.query.toYear;
     
-    let sql = `SELECT *  FROM air_pollution_tbl WHERE year between ${fromYear} and ${toYear}`;
+    let sql = `SELECT country, city, year, AVG(pm25) AS pm25, AVG(pm10) AS pm10, AVG(no2) AS no2 
+                FROM "air_pollution_tbl" 
+                WHERE year BETWEEN ${fromYear} and ${toYear} group by country, city limit 500`;
 
     db.all(sql, [], (err, rows) => {
         if (err) {
             throw err;
         }
-
-        console.log(rows);
+        res.json(rows);
     });
-
-    
 })
+
+
+
+
+
 
 app.listen(port, () => {
     console.log(`Now listening on port ${port}`); 
