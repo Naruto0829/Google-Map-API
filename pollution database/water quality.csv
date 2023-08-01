@@ -321,14 +321,14 @@ Austria,Arnoldstein,2017,pH,pH,8.33,phunits
 Austria,Arnoldstein,2018,Oxygen Diss,"Oxygen, Dissolved as O2",11,mg/l
 Austria,Arnoldstein,2019,Cond @ 25C,Conductivity at 25 C,766,us/cm
 Austria,Bad Ischl,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",97,%
-Austria,Bad Vöslau,2010,Fluoranthene,Fluoranthene,0.0037,ug/l
-Austria,Bad Vöslau,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",92.4,%
-Austria,Bad Vöslau,2014,B-[a]-pyrene,Benzo(a)Pyrene,0.0011,ug/l
-Austria,Bad Vöslau,2015,Temp Water,Temperature of Water,14.1,cel
-Austria,Bad Vöslau,2016,Anthracene,Anthracene,0.01,ug/l
-Austria,Bad Vöslau,2017,pH,pH,8.07,phunits
-Austria,Bad Vöslau,2018,Oxygen Diss,"Oxygen, Dissolved as O2",9.48,mg/l
-Austria,Bad Vöslau,2019,Cond @ 25C,Conductivity at 25 C,645,us/cm
+Austria,Bad V?lau,2010,Fluoranthene,Fluoranthene,0.0037,ug/l
+Austria,Bad V?lau,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",92.4,%
+Austria,Bad V?lau,2014,B-[a]-pyrene,Benzo(a)Pyrene,0.0011,ug/l
+Austria,Bad V?lau,2015,Temp Water,Temperature of Water,14.1,cel
+Austria,Bad V?lau,2016,Anthracene,Anthracene,0.01,ug/l
+Austria,Bad V?lau,2017,pH,pH,8.07,phunits
+Austria,Bad V?lau,2018,Oxygen Diss,"Oxygen, Dissolved as O2",9.48,mg/l
+Austria,Bad V?lau,2019,Cond @ 25C,Conductivity at 25 C,645,us/cm
 Austria,Biedermannsdorf,2010,Fluoranthene,Fluoranthene,0.0019,ug/l
 Austria,Biedermannsdorf,2013,B-[a]-pyrene,Benzo(a)Pyrene,0.00057,ug/l
 Austria,Biedermannsdorf,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",99.3,%
@@ -469,14 +469,14 @@ Austria,Furstenfeld,2017,Nitrite-N,Nitrite as N,0.0095,mg/l
 Austria,Furstenfeld,2018,Oxygen Diss,"Oxygen, Dissolved as O2",13.3,mg/l
 Austria,Furstenfeld,2019,pH,pH,8.45,phunits
 Austria,Galtur,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",117.8,%
-Austria,Gänserndorf,2010,Temp Water,Temperature of Water,9.8,cel
-Austria,Gänserndorf,2013,Cond @ 25C,Conductivity at 25 C,723,us/cm
-Austria,Gänserndorf,2014,Oxygen Diss,"Oxygen, Dissolved as O2",12.7,mg/l
-Austria,Gänserndorf,2015,pH,pH,8.42,phunits
-Austria,Gänserndorf,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.4,%
-Austria,Gänserndorf,2017,Temp Water,Temperature of Water,9.2,cel
-Austria,Gänserndorf,2018,Cond @ 25C,Conductivity at 25 C,720,us/cm
-Austria,Gänserndorf,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.9,%
+Austria,G?serndorf,2010,Temp Water,Temperature of Water,9.8,cel
+Austria,G?serndorf,2013,Cond @ 25C,Conductivity at 25 C,723,us/cm
+Austria,G?serndorf,2014,Oxygen Diss,"Oxygen, Dissolved as O2",12.7,mg/l
+Austria,G?serndorf,2015,pH,pH,8.42,phunits
+Austria,G?serndorf,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.4,%
+Austria,G?serndorf,2017,Temp Water,Temperature of Water,9.2,cel
+Austria,G?serndorf,2018,Cond @ 25C,Conductivity at 25 C,720,us/cm
+Austria,G?serndorf,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.9,%
 Austria,Gemeinde Gratwein,2010,Temp Water,Temperature of Water,12.5,cel
 Austria,Gemeinde Imst,2013,Cond @ 25C,Conductivity at 25 C,739,us/cm
 Austria,Gemeinde Imst,2014,Oxygen Diss,"Oxygen, Dissolved as O2",11.8,mg/l
@@ -601,22 +601,22 @@ Austria,Hochberg,2016,Sld Sus@105C,"Solids, Suspended at 105 C",3.4,mg/l
 Austria,Hochberg,2017,Nitrate-N,Nitrate as N,5.79,mg/l
 Austria,Hochberg,2018,Nitrite-N,Nitrite as N,0.011,mg/l
 Austria,Hochberg,2019,NH3 un-ion,Ammonia un-ionised as N,0.0004,mg/l
-Austria,Hochgössnitz,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",71.5,%
-Austria,Hochgössnitz,2013,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
-Austria,Hochgössnitz,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
-Austria,Hochgössnitz,2015,pH,pH,8.06,phunits
-Austria,Hochgössnitz,2016,Oxygen Diss,"Oxygen, Dissolved as O2",8.93,mg/l
-Austria,Hochgössnitz,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Austria,Hochgössnitz,2018,Cond @ 25C,Conductivity at 25 C,724,us/cm
-Austria,Hochgössnitz,2019,Temp Water,Temperature of Water,5.8,cel
-Austria,Höchst,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.035,mg/l
-Austria,Höchst,2013,pH,pH,7.56,phunits
-Austria,Höchst,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",80.7,%
-Austria,Höchst,2015,N Oxidised,"Nitrogen, Total Oxidised as N",8.1,mg/l
-Austria,Höchst,2016,TurbidityNTU,Turbidity,1.2,ntu
-Austria,Höchst,2017,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
-Austria,Höchst,2018,Nitrate-N,Nitrate as N,8.09,mg/l
-Austria,Höchst,2019,Nitrite-N,Nitrite as N,0.012,mg/l
+Austria,Hochg?snitz,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",71.5,%
+Austria,Hochg?snitz,2013,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
+Austria,Hochg?snitz,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
+Austria,Hochg?snitz,2015,pH,pH,8.06,phunits
+Austria,Hochg?snitz,2016,Oxygen Diss,"Oxygen, Dissolved as O2",8.93,mg/l
+Austria,Hochg?snitz,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Austria,Hochg?snitz,2018,Cond @ 25C,Conductivity at 25 C,724,us/cm
+Austria,Hochg?snitz,2019,Temp Water,Temperature of Water,5.8,cel
+Austria,H?hst,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.035,mg/l
+Austria,H?hst,2013,pH,pH,7.56,phunits
+Austria,H?hst,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",80.7,%
+Austria,H?hst,2015,N Oxidised,"Nitrogen, Total Oxidised as N",8.1,mg/l
+Austria,H?hst,2016,TurbidityNTU,Turbidity,1.2,ntu
+Austria,H?hst,2017,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
+Austria,H?hst,2018,Nitrate-N,Nitrate as N,8.09,mg/l
+Austria,H?hst,2019,Nitrite-N,Nitrite as N,0.012,mg/l
 Austria,Hollabrunn,2010,NH3 un-ion,Ammonia un-ionised as N,0.00022,mg/l
 Austria,Hollabrunn,2013,Oxygen Diss,"Oxygen, Dissolved as O2",9.25,mg/l
 Austria,Hollabrunn,2014,Temp Water,Temperature of Water,9.3,cel
@@ -683,14 +683,14 @@ Austria,Klagenfurt Am Worthersee,2016,Sld Sus@105C,"Solids, Suspended at 105 C",
 Austria,Klagenfurt Am Worthersee,2017,TurbidityNTU,Turbidity,5.2,ntu
 Austria,Klagenfurt Am Worthersee,2018,CHLOROPHYLL,Chlorophyll : Acetone Extract,2.8,ug/l
 Austria,Klagenfurt Am Worthersee,2019,Temp Water,Temperature of Water,15.8,cel
-Austria,Klöchberg,2010,pH,pH,8.04,phunits
-Austria,Klöchberg,2013,C - Org Filt,"Carbon, Organic, Dissolved as C :- {DOC}",3.5,mg/l
-Austria,Klöchberg,2014,CN Free,Cyanide : Free as CN,0.005,mg/l
-Austria,Klöchberg,2015,Ni- Filtered,"Nickel, Dissolved",0.97,ug/l
-Austria,Klöchberg,2016,Mg Filtered,"Magnesium, Dissolved",6.9,mg/l
-Austria,Klöchberg,2017,pH,pH,8.24,phunits
-Austria,Klöchberg,2018,Ca Filtered,"Calcium, Dissolved",130,mg/l
-Austria,Klöchberg,2019,Cd Filtered,"Cadmium, Dissolved",0.01,ug/l
+Austria,Kl?hberg,2010,pH,pH,8.04,phunits
+Austria,Kl?hberg,2013,C - Org Filt,"Carbon, Organic, Dissolved as C :- {DOC}",3.5,mg/l
+Austria,Kl?hberg,2014,CN Free,Cyanide : Free as CN,0.005,mg/l
+Austria,Kl?hberg,2015,Ni- Filtered,"Nickel, Dissolved",0.97,ug/l
+Austria,Kl?hberg,2016,Mg Filtered,"Magnesium, Dissolved",6.9,mg/l
+Austria,Kl?hberg,2017,pH,pH,8.24,phunits
+Austria,Kl?hberg,2018,Ca Filtered,"Calcium, Dissolved",130,mg/l
+Austria,Kl?hberg,2019,Cd Filtered,"Cadmium, Dissolved",0.01,ug/l
 Austria,Klosterneuburg,2010,Cyanide - CN,Cyanide as CN,0.005,mg/l
 Austria,Klosterneuburg,2013,Ni BLM Bio,Nickel : BLM Bioavailable,0.65,ug/l
 Austria,Klosterneuburg,2014,Cd Filtered,"Cadmium, Dissolved",0.01,ug/l
@@ -884,7 +884,7 @@ Austria,Peggau,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",88.9,%
 Austria,Peggau,2015,Phosphate,Phosphate :- {TIP},0.044,mg/l
 Austria,Peggau,2016,pH,pH,7.92,phunits
 Austria,Peggau,2017,Nitrogen - N,"Nitrogen, Total as N",4.9,mg/l
-Austria,Pöchlarn,2010,Phosphorus-P,"Phosphorus, Total as P",0.041,mg/l
+Austria,P?hlarn,2010,Phosphorus-P,"Phosphorus, Total as P",0.041,mg/l
 Austria,Purkersdorf,2010,Cond @ 25C,Conductivity at 25 C,718,us/cm
 Austria,Purkersdorf,2013,Oxygen Diss,"Oxygen, Dissolved as O2",9.12,mg/l
 Austria,Purkersdorf,2014,Temp Water,Temperature of Water,14.1,cel
@@ -930,7 +930,7 @@ Austria,Sankt Andra,2016,Pb BLM Bio,Lead : BLM Bioavailable,0.26,ug/l
 Austria,Sankt Andra,2017,Orthophospht,"Orthophosphate, reactive as P",0.027,mg/l
 Austria,Sankt Andra,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,260,mg/l
 Austria,Sankt Andra,2019,N Oxidised,"Nitrogen, Total Oxidised as N",8,mg/l
-Austria,Sankt Andrä Im Lavanttal,2010,Nitrate-N,Nitrate as N,7.95,mg/l
+Austria,Sankt Andr?Im Lavanttal,2010,Nitrate-N,Nitrate as N,7.95,mg/l
 Austria,Sankt Johann Im Pongau,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",105.5,%
 Austria,Sankt Johann Im Pongau,2014,Temp Water,Temperature of Water,10.2,cel
 Austria,Sankt Johann Im Pongau,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
@@ -938,14 +938,14 @@ Austria,Sankt Johann Im Pongau,2016,Oxygen Diss,"Oxygen, Dissolved as O2",11.8,m
 Austria,Sankt Johann Im Pongau,2017,NH3 un-ion,Ammonia un-ionised as N,0.00056,mg/l
 Austria,Sankt Johann Im Pongau,2018,Cond @ 25C,Conductivity at 25 C,764,us/cm
 Austria,Sankt Johann Im Pongau,2019,pH,pH,8.34,phunits
-Austria,Sankt Pöelten,2010,Nitrite-N,Nitrite as N,0.053,mg/l
-Austria,Sankt Pöelten,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",101.9,%
-Austria,Sankt Pöelten,2014,Orthophospht,"Orthophosphate, reactive as P",0.059,mg/l
-Austria,Sankt Pöelten,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
-Austria,Sankt Pöelten,2016,Temp Water,Temperature of Water,12.2,cel
-Austria,Sankt Pöelten,2017,Cond @ 25C,Conductivity at 25 C,766,us/cm
-Austria,Sankt Pöelten,2018,Oxygen Diss,"Oxygen, Dissolved as O2",10.9,mg/l
-Austria,Sankt Pöelten,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Austria,Sankt P?lten,2010,Nitrite-N,Nitrite as N,0.053,mg/l
+Austria,Sankt P?lten,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",101.9,%
+Austria,Sankt P?lten,2014,Orthophospht,"Orthophosphate, reactive as P",0.059,mg/l
+Austria,Sankt P?lten,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
+Austria,Sankt P?lten,2016,Temp Water,Temperature of Water,12.2,cel
+Austria,Sankt P?lten,2017,Cond @ 25C,Conductivity at 25 C,766,us/cm
+Austria,Sankt P?lten,2018,Oxygen Diss,"Oxygen, Dissolved as O2",10.9,mg/l
+Austria,Sankt P?lten,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Austria,Sankt Valentin,2013,pH,pH,8.25,phunits
 Austria,Sankt Valentin,2014,Nitrate-N,Nitrate as N,7.68,mg/l
 Austria,Sankt Valentin,2015,Nitrite-N,Nitrite as N,0.018,mg/l
@@ -1106,7 +1106,7 @@ Austria,Villach,2016,Orthophospht,"Orthophosphate, reactive as P",0.34,mg/l
 Austria,Villach,2017,Mg Filtered,"Magnesium, Dissolved",4.4,mg/l
 Austria,Villach,2018,pH,pH,7.85,phunits
 Austria,Villach,2019,Fe- Filt,"Iron, Dissolved",250,ug/l
-Austria,Vöcklabruck,2010,Ca Filtered,"Calcium, Dissolved",73,mg/l
+Austria,V?klabruck,2010,Ca Filtered,"Calcium, Dissolved",73,mg/l
 Austria,Voitsberg,2010,C - Org Filt,"Carbon, Organic, Dissolved as C :- {DOC}",6.7,mg/l
 Austria,Voitsberg,2013,NO FLOW/SAMP,No flow /No sample,0,coded
 Austria,Voitsberg,2014,NO FLOW/SAMP,No flow /No sample,0,coded
@@ -1123,14 +1123,14 @@ Austria,Vomp,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,120,mg/l
 Austria,Vomp,2017,Temp Water,Temperature of Water,3.5,cel
 Austria,Vomp,2018,Cond @ 25C,Conductivity at 25 C,955,us/cm
 Austria,Vomp,2019,Oxygen Diss,"Oxygen, Dissolved as O2",13.3,mg/l
-Austria,Vösendorf,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.043,mg/l
-Austria,Vösendorf,2013,pH,pH,8.29,phunits
-Austria,Vösendorf,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",100.2,%
-Austria,Vösendorf,2015,N Oxidised,"Nitrogen, Total Oxidised as N",8.5,mg/l
-Austria,Vösendorf,2016,Sld Sus@105C,"Solids, Suspended at 105 C",5.3,mg/l
-Austria,Vösendorf,2017,Nitrate-N,Nitrate as N,8.48,mg/l
-Austria,Vösendorf,2018,Nitrite-N,Nitrite as N,0.023,mg/l
-Austria,Vösendorf,2019,NH3 un-ion,Ammonia un-ionised as N,0.0003,mg/l
+Austria,V?endorf,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.043,mg/l
+Austria,V?endorf,2013,pH,pH,8.29,phunits
+Austria,V?endorf,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",100.2,%
+Austria,V?endorf,2015,N Oxidised,"Nitrogen, Total Oxidised as N",8.5,mg/l
+Austria,V?endorf,2016,Sld Sus@105C,"Solids, Suspended at 105 C",5.3,mg/l
+Austria,V?endorf,2017,Nitrate-N,Nitrate as N,8.48,mg/l
+Austria,V?endorf,2018,Nitrite-N,Nitrite as N,0.023,mg/l
+Austria,V?endorf,2019,NH3 un-ion,Ammonia un-ionised as N,0.0003,mg/l
 Austria,Weiz,2010,Oxygen Diss,"Oxygen, Dissolved as O2",12.4,mg/l
 Austria,Weiz,2013,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Austria,Weiz,2014,Orthophospht,"Orthophosphate, reactive as P",0.059,mg/l
@@ -2100,7 +2100,7 @@ Bosnia and Herzegovina,Zenica-Doboj Canton,2016,Chloroform,Chloroform :- {Trichl
 Bosnia and Herzegovina,Zenica-Doboj Canton,2017,Manganse-Mn,Manganese,29,ug/l
 Bosnia and Herzegovina,Zenica-Doboj Canton,2018,SiO2 Rv,"Silica, reactive as SiO2",14,mg/l
 Bosnia and Herzegovina,Zenica-Doboj Canton,2019,Cr- Filtered,"Chromium, Dissolved",0.5,ug/l
-Bosnia and Herzegovina,Živinice,2017,Cond @ 25C,Conductivity at 25 C,783,us/cm
+Bosnia and Herzegovina,?vinice,2017,Cond @ 25C,Conductivity at 25 C,783,us/cm
 Bolivia (Plurinational State of),Cochabamba,2014,t12DCEe,"trans-1,2-Dichloroethylene :- {trans-1,2-Dichloroethene}",0.1,ug/l
 Bolivia (Plurinational State of),La Paz,2013,Barium - Ba,Barium,57,ug/l
 Brazil,Americana,2011,N Oxidised,"Nitrogen, Total Oxidised as N",3.6,mg/l
@@ -2422,7 +2422,7 @@ Brazil,Presidente Prudente,2016,Sld Sus@105C,"Solids, Suspended at 105 C",25,mg/
 Brazil,Presidente Prudente,2018,Nitrogen - N,"Nitrogen, Total as N",17,mg/l
 Brazil,Presidente Prudente,2019,Phosphate,Phosphate :- {TIP},0.39,mg/l
 Brazil,Quatis,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",87.5,%
-Brazil,Regiao Metropolitana De São Paulo,2014,Temp Water,Temperature of Water,11.7,cel
+Brazil,Regiao Metropolitana De S? Paulo,2014,Temp Water,Temperature of Water,11.7,cel
 Brazil,Regiao Metropolitana Do Rio De Janeiro,2014,Cond @ 25C,Conductivity at 25 C,540,us/cm
 Brazil,Resende,2010,Oxygen Diss,"Oxygen, Dissolved as O2",9.47,mg/l
 Brazil,Resende,2011,pH,pH,8.01,phunits
@@ -3622,8 +3622,8 @@ Switzerland,Altdorf,2018,Temp Water,Temperature of Water,6.1,cel
 Switzerland,Altdorf,2019,pH,pH,8.07,phunits
 Switzerland,Altdorf,2020,Sld Sus@105C,"Solids, Suspended at 105 C",1,mg/l
 Switzerland,Anieres,2010,Temp Water,Temperature of Water,11.6,cel
-Switzerland,Anières,2011,Chlorine,Chlorine : Total Available,0.06,mg/l
-Switzerland,Anières,2012,Nitrogen - N,"Nitrogen, Total as N",8.8,mg/l
+Switzerland,Ani?es,2011,Chlorine,Chlorine : Total Available,0.06,mg/l
+Switzerland,Ani?es,2012,Nitrogen - N,"Nitrogen, Total as N",8.8,mg/l
 Switzerland,Arbon,2011,pH,pH,8.36,phunits
 Switzerland,Arbon,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",94.6,%
 Switzerland,Avully,2010,Temp Water,Temperature of Water,4.4,cel
@@ -3687,10 +3687,10 @@ Switzerland,Bern,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Switzerland,Bern,2019,Oxygen Diss,"Oxygen, Dissolved as O2",10.6,mg/l
 Switzerland,Bern,2019,pH,pH,7.67,phunits
 Switzerland,Bern,2020,Orthophospht,"Orthophosphate, reactive as P",0.042,mg/l
-Switzerland,Beromünster,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",92.5,%
-Switzerland,Beromünster,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
-Switzerland,Beromünster,2019,Temp Water,Temperature of Water,9.2,cel
-Switzerland,Beromünster,2020,Nitrate-N,Nitrate as N,6.28,mg/l
+Switzerland,Berom?ster,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",92.5,%
+Switzerland,Berom?ster,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
+Switzerland,Berom?ster,2019,Temp Water,Temperature of Water,9.2,cel
+Switzerland,Berom?ster,2020,Nitrate-N,Nitrate as N,6.28,mg/l
 Switzerland,Bevaix,2015,N Oxidised,"Nitrogen, Total Oxidised as N",6.3,mg/l
 Switzerland,Bevaix,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Switzerland,Biberist,2011,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
@@ -3846,16 +3846,16 @@ Switzerland,Davos,2017,Nitrite-N,Nitrite as N,0.0059,mg/l
 Switzerland,Davos,2018,Cond @ 25C,Conductivity at 25 C,750,us/cm
 Switzerland,Davos,2019,NH3 un-ion,Ammonia un-ionised as N,0.00118,mg/l
 Switzerland,Davos,2020,Orthophospht,"Orthophosphate, reactive as P",0.14,mg/l
-Switzerland,Delémont,2011,Nitrate-N,Nitrate as N,0.316,mg/l
-Switzerland,Delémont,2012,O Diss %sat,"Oxygen, Dissolved, % Saturation",79.8,%
-Switzerland,Delémont,2013,NH3 un-ion,Ammonia un-ionised as N,0.00051,mg/l
-Switzerland,Delémont,2014,Cond @ 25C,Conductivity at 25 C,511,us/cm
-Switzerland,Delémont,2015,Nitrite-N,Nitrite as N,0.004,mg/l
-Switzerland,Delémont,2016,Oxygen Diss,"Oxygen, Dissolved as O2",8.06,mg/l
-Switzerland,Delémont,2017,pH,pH,7.81,phunits
-Switzerland,Delémont,2018,N Oxidised,"Nitrogen, Total Oxidised as N",0.32,mg/l
-Switzerland,Delémont,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Delémont,2020,Temp Water,Temperature of Water,14.8,cel
+Switzerland,Del?ont,2011,Nitrate-N,Nitrate as N,0.316,mg/l
+Switzerland,Del?ont,2012,O Diss %sat,"Oxygen, Dissolved, % Saturation",79.8,%
+Switzerland,Del?ont,2013,NH3 un-ion,Ammonia un-ionised as N,0.00051,mg/l
+Switzerland,Del?ont,2014,Cond @ 25C,Conductivity at 25 C,511,us/cm
+Switzerland,Del?ont,2015,Nitrite-N,Nitrite as N,0.004,mg/l
+Switzerland,Del?ont,2016,Oxygen Diss,"Oxygen, Dissolved as O2",8.06,mg/l
+Switzerland,Del?ont,2017,pH,pH,7.81,phunits
+Switzerland,Del?ont,2018,N Oxidised,"Nitrogen, Total Oxidised as N",0.32,mg/l
+Switzerland,Del?ont,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Switzerland,Del?ont,2020,Temp Water,Temperature of Water,14.8,cel
 Switzerland,Dornach,2011,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,120,mg/l
 Switzerland,Dornach,2012,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Switzerland,Dornach,2013,pH,pH,8.14,phunits
@@ -3872,16 +3872,16 @@ Switzerland,Dubendorf,2016,Nitrite-N,Nitrite as N,0.017,mg/l
 Switzerland,Dubendorf,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",106.3,%
 Switzerland,Dubendorf,2018,Orthophospht,"Orthophosphate, reactive as P",0.022,mg/l
 Switzerland,Dubendorf,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,220,mg/l
-Switzerland,Dübendorf,2011,Temp Water,Temperature of Water,6,cel
-Switzerland,Dübendorf,2012,Cond @ 25C,Conductivity at 25 C,901,us/cm
-Switzerland,Dübendorf,2013,Oxygen Diss,"Oxygen, Dissolved as O2",13.2,mg/l
-Switzerland,Dübendorf,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Dübendorf,2015,pH,pH,8.16,phunits
-Switzerland,Dübendorf,2016,N Oxidised,"Nitrogen, Total Oxidised as N",15,mg/l
-Switzerland,Dübendorf,2017,Nitrate-N,Nitrate as N,15,mg/l
-Switzerland,Dübendorf,2018,Nitrite-N,Nitrite as N,0.018,mg/l
-Switzerland,Dübendorf,2019,NH3 un-ion,Ammonia un-ionised as N,0.00041,mg/l
-Switzerland,Dübendorf,2020,Nitrate-N,Nitrate as N,9.98,mg/l
+Switzerland,D?endorf,2011,Temp Water,Temperature of Water,6,cel
+Switzerland,D?endorf,2012,Cond @ 25C,Conductivity at 25 C,901,us/cm
+Switzerland,D?endorf,2013,Oxygen Diss,"Oxygen, Dissolved as O2",13.2,mg/l
+Switzerland,D?endorf,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Switzerland,D?endorf,2015,pH,pH,8.16,phunits
+Switzerland,D?endorf,2016,N Oxidised,"Nitrogen, Total Oxidised as N",15,mg/l
+Switzerland,D?endorf,2017,Nitrate-N,Nitrate as N,15,mg/l
+Switzerland,D?endorf,2018,Nitrite-N,Nitrite as N,0.018,mg/l
+Switzerland,D?endorf,2019,NH3 un-ion,Ammonia un-ionised as N,0.00041,mg/l
+Switzerland,D?endorf,2020,Nitrate-N,Nitrate as N,9.98,mg/l
 Switzerland,Ebikon,2011,Nitrite-N,Nitrite as N,0.021,mg/l
 Switzerland,Ebikon,2012,NH3 un-ion,Ammonia un-ionised as N,0.00037,mg/l
 Switzerland,Ebikon,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",102.2,%
@@ -3973,16 +3973,16 @@ Switzerland,Geneve,2013,Temp Water,Temperature of Water,2.2,cel
 Switzerland,Geneve,2017,Cond @ 25C,Conductivity at 25 C,763,us/cm
 Switzerland,Geneve,2018,Oxygen Diss,"Oxygen, Dissolved as O2",13.1,mg/l
 Switzerland,Geneve,2019,Sld Sus@105C,"Solids, Suspended at 105 C",7.5,mg/l
-Switzerland,Genève,2011,Orthophospht,"Orthophosphate, reactive as P",0.026,mg/l
-Switzerland,Genève,2012,Nitrate-N,Nitrate as N,13,mg/l
-Switzerland,Genève,2013,Nitrogen - N,"Nitrogen, Total as N",14,mg/l
-Switzerland,Genève,2014,Nitrite-N,Nitrite as N,0.0071,mg/l
-Switzerland,Genève,2015,Nitrogen - N,"Nitrogen, Total as N",14,mg/l
-Switzerland,Genève,2016,Cond @ 25C,Conductivity at 25 C,785,us/cm
-Switzerland,Genève,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Genève,2018,pH,pH,8.25,phunits
-Switzerland,Genève,2019,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.00001,mg/l
-Switzerland,Genève,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",107.1,%
+Switzerland,Gen?e,2011,Orthophospht,"Orthophosphate, reactive as P",0.026,mg/l
+Switzerland,Gen?e,2012,Nitrate-N,Nitrate as N,13,mg/l
+Switzerland,Gen?e,2013,Nitrogen - N,"Nitrogen, Total as N",14,mg/l
+Switzerland,Gen?e,2014,Nitrite-N,Nitrite as N,0.0071,mg/l
+Switzerland,Gen?e,2015,Nitrogen - N,"Nitrogen, Total as N",14,mg/l
+Switzerland,Gen?e,2016,Cond @ 25C,Conductivity at 25 C,785,us/cm
+Switzerland,Gen?e,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Switzerland,Gen?e,2018,pH,pH,8.25,phunits
+Switzerland,Gen?e,2019,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.00001,mg/l
+Switzerland,Gen?e,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",107.1,%
 Switzerland,Giubiasco,2011,Phosphorus-P,"Phosphorus, Total as P",0.02,mg/l
 Switzerland,Giubiasco,2012,N Oxidised,"Nitrogen, Total Oxidised as N",14,mg/l
 Switzerland,Giubiasco,2013,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
@@ -4006,16 +4006,16 @@ Switzerland,Grenchen,2011,Phosphorus-P,"Phosphorus, Total as P",0.013,mg/l
 Switzerland,Grenchen,2012,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.00001,mg/l
 Switzerland,Grenchen,2013,Nitrogen - N,"Nitrogen, Total as N",13,mg/l
 Switzerland,Grenchen,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Härkingen,2011,Sld Sus@105C,"Solids, Suspended at 105 C",5.4,mg/l
-Switzerland,Härkingen,2012,O Diss %sat,"Oxygen, Dissolved, % Saturation",125.1,%
-Switzerland,Härkingen,2013,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
-Switzerland,Härkingen,2014,Temp Water,Temperature of Water,6.7,cel
-Switzerland,Härkingen,2015,Cond @ 25C,Conductivity at 25 C,793,us/cm
-Switzerland,Härkingen,2016,Oxygen Diss,"Oxygen, Dissolved as O2",15.3,mg/l
-Switzerland,Härkingen,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Härkingen,2018,pH,pH,8.36,phunits
-Switzerland,Härkingen,2019,Phosphate,Phosphate :- {TIP},0.02,mg/l
-Switzerland,Härkingen,2020,Sld Sus@105C,"Solids, Suspended at 105 C",5.1,mg/l
+Switzerland,H?kingen,2011,Sld Sus@105C,"Solids, Suspended at 105 C",5.4,mg/l
+Switzerland,H?kingen,2012,O Diss %sat,"Oxygen, Dissolved, % Saturation",125.1,%
+Switzerland,H?kingen,2013,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
+Switzerland,H?kingen,2014,Temp Water,Temperature of Water,6.7,cel
+Switzerland,H?kingen,2015,Cond @ 25C,Conductivity at 25 C,793,us/cm
+Switzerland,H?kingen,2016,Oxygen Diss,"Oxygen, Dissolved as O2",15.3,mg/l
+Switzerland,H?kingen,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Switzerland,H?kingen,2018,pH,pH,8.36,phunits
+Switzerland,H?kingen,2019,Phosphate,Phosphate :- {TIP},0.02,mg/l
+Switzerland,H?kingen,2020,Sld Sus@105C,"Solids, Suspended at 105 C",5.1,mg/l
 Switzerland,Heiden,2012,Nitrate-N,Nitrate as N,12,mg/l
 Switzerland,Horgen,2017,N-Kjeldahl,"Nitrogen, Kjeldahl as N",1,mg/l
 Switzerland,Horgen,2018,Phosphorus-P,"Phosphorus, Total as P",0.014,mg/l
@@ -4061,13 +4061,13 @@ Switzerland,La Chaux,2017,N Oxidised,"Nitrogen, Total Oxidised as N",7.7,mg/l
 Switzerland,La Chaux,2018,pH,pH,8.22,phunits
 Switzerland,La Chaux,2019,Nitrogen - N,"Nitrogen, Total as N",8.4,mg/l
 Switzerland,La Chaux,2020,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
-Switzerland,Lägeren,2011,Temp Water,Temperature of Water,5.2,cel
-Switzerland,Lägeren,2012,Cond @ 25C,Conductivity at 25 C,801,us/cm
-Switzerland,Lägeren,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.1,%
-Switzerland,Lägeren,2014,Nitrate-N,Nitrate as N,7.69,mg/l
-Switzerland,Lägeren,2015,Nitrite-N,Nitrite as N,0.011,mg/l
-Switzerland,Lägeren,2016,Phosphorus-P,"Phosphorus, Total as P",0.01,mg/l
-Switzerland,Lägeren,2017,Phosphate,Phosphate :- {TIP},0.02,mg/l
+Switzerland,L?eren,2011,Temp Water,Temperature of Water,5.2,cel
+Switzerland,L?eren,2012,Cond @ 25C,Conductivity at 25 C,801,us/cm
+Switzerland,L?eren,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",110.1,%
+Switzerland,L?eren,2014,Nitrate-N,Nitrate as N,7.69,mg/l
+Switzerland,L?eren,2015,Nitrite-N,Nitrite as N,0.011,mg/l
+Switzerland,L?eren,2016,Phosphorus-P,"Phosphorus, Total as P",0.01,mg/l
+Switzerland,L?eren,2017,Phosphate,Phosphate :- {TIP},0.02,mg/l
 Switzerland,Langenthal,2011,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Switzerland,Langenthal,2012,N Organic,"Nitrogen, Organic as N",0.67,mg/l
 Switzerland,Langenthal,2013,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.7,mg/l
@@ -4280,16 +4280,16 @@ Switzerland,Neuchatel,2016,BOD ATU,BOD : 5 Day ATU,1.6,mg/l
 Switzerland,Neuchatel,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",82.1,%
 Switzerland,Neuchatel,2018,Nitrite-N,Nitrite as N,0.12,mg/l
 Switzerland,Neuchatel,2019,NH3 un-ion,Ammonia un-ionised as N,0.00052,mg/l
-Switzerland,Neuchâtel,2011,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Neuchâtel,2012,pH,pH,7.88,phunits
-Switzerland,Neuchâtel,2013,Nitrate-N,Nitrate as N,6.38,mg/l
-Switzerland,Neuchâtel,2014,N Oxidised,"Nitrogen, Total Oxidised as N",6.5,mg/l
-Switzerland,Neuchâtel,2015,Orthophospht,"Orthophosphate, reactive as P",1.1,mg/l
-Switzerland,Neuchâtel,2016,Cond @ 25C,Conductivity at 25 C,1182,us/cm
-Switzerland,Neuchâtel,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,300,mg/l
-Switzerland,Neuchâtel,2018,BOD ATU,BOD : 5 Day ATU,1.4,mg/l
-Switzerland,Neuchâtel,2019,Temp Water,Temperature of Water,16.7,cel
-Switzerland,Neuchâtel,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",115.9,%
+Switzerland,Neuch?el,2011,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Switzerland,Neuch?el,2012,pH,pH,7.88,phunits
+Switzerland,Neuch?el,2013,Nitrate-N,Nitrate as N,6.38,mg/l
+Switzerland,Neuch?el,2014,N Oxidised,"Nitrogen, Total Oxidised as N",6.5,mg/l
+Switzerland,Neuch?el,2015,Orthophospht,"Orthophosphate, reactive as P",1.1,mg/l
+Switzerland,Neuch?el,2016,Cond @ 25C,Conductivity at 25 C,1182,us/cm
+Switzerland,Neuch?el,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,300,mg/l
+Switzerland,Neuch?el,2018,BOD ATU,BOD : 5 Day ATU,1.4,mg/l
+Switzerland,Neuch?el,2019,Temp Water,Temperature of Water,16.7,cel
+Switzerland,Neuch?el,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",115.9,%
 Switzerland,Neuhausen,2011,Orthophospht,"Orthophosphate, reactive as P",2.7,mg/l
 Switzerland,Neuhausen,2012,Nitrite-N,Nitrite as N,0.29,mg/l
 Switzerland,Neuhausen,2013,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
@@ -4391,9 +4391,9 @@ Switzerland,Rothenbrunnen,2020,Zinc - as Zn,Zinc,30,ug/l
 Switzerland,Roveredo,2013,Chloride Ion,Chloride,150,mg/l
 Switzerland,Roveredo,2014,Orthophospht,"Orthophosphate, reactive as P",4.4,mg/l
 Switzerland,Roveredo,2015,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
-Switzerland,Saignelégier,2011,Cyanide - CN,Cyanide as CN,0.005,mg/l
-Switzerland,Saignelégier,2012,Silver - Ag,Silver,1,ug/l
-Switzerland,Saignelégier,2013,Chromium -Cr,Chromium,0.5,ug/l
+Switzerland,Saignel?ier,2011,Cyanide - CN,Cyanide as CN,0.005,mg/l
+Switzerland,Saignel?ier,2012,Silver - Ag,Silver,1,ug/l
+Switzerland,Saignel?ier,2013,Chromium -Cr,Chromium,0.5,ug/l
 Switzerland,San Vittore,2011,Copper - Cu,Copper,11,ug/l
 Switzerland,San Vittore,2012,Nickel - Ni,Nickel,4.9,ug/l
 Switzerland,San Vittore,2013,Lead - as Pb,Lead,2,ug/l
@@ -4427,11 +4427,11 @@ Switzerland,Schleinikon,2016,BOD ATU,BOD : 5 Day ATU,3,mg/l
 Switzerland,Schleinikon,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",99.8,%
 Switzerland,Schlieren,2015,Nitrite-N,Nitrite as N,0.26,mg/l
 Switzerland,Schlieren,2018,NH3 un-ion,Ammonia un-ionised as N,0.00801,mg/l
-Switzerland,Schönenbuch,2011,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,130,mg/l
-Switzerland,Schönenbuch,2012,pH,pH,7.25,phunits
-Switzerland,Schönenbuch,2013,NH3 un-ion,Ammonia un-ionised as N,0.00494,mg/l
-Switzerland,Schönenbuch,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.31,mg/l
-Switzerland,Schönenbuch,2015,Nitrate-N,Nitrate as N,29.9,mg/l
+Switzerland,Sch?enbuch,2011,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,130,mg/l
+Switzerland,Sch?enbuch,2012,pH,pH,7.25,phunits
+Switzerland,Sch?enbuch,2013,NH3 un-ion,Ammonia un-ionised as N,0.00494,mg/l
+Switzerland,Sch?enbuch,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.31,mg/l
+Switzerland,Sch?enbuch,2015,Nitrate-N,Nitrate as N,29.9,mg/l
 Switzerland,Schupfart,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,100,mg/l
 Switzerland,Schupfart,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",100.7,%
 Switzerland,Schupfart,2020,Orthophospht,"Orthophosphate, reactive as P",0.19,mg/l
@@ -4510,32 +4510,32 @@ Switzerland,Sursee,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",99.7,%
 Switzerland,Sursee,2018,Oxygen Diss,"Oxygen, Dissolved as O2",10.4,mg/l
 Switzerland,Sursee,2019,Nitrite-N,Nitrite as N,0.034,mg/l
 Switzerland,Tanikon,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Switzerland,Tänikon,2011,pH,pH,8.11,phunits
-Switzerland,Tänikon,2012,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,290,mg/l
-Switzerland,Tänikon,2013,NH3 un-ion,Ammonia un-ionised as N,0.00071,mg/l
-Switzerland,Tänikon,2014,BOD ATU,BOD : 5 Day ATU,1,mg/l
-Switzerland,Tänikon,2015,Cond @ 25C,Conductivity at 25 C,1096,us/cm
-Switzerland,Tänikon,2016,Orthophospht,"Orthophosphate, reactive as P",0.14,mg/l
-Switzerland,Tänikon,2017,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
-Switzerland,Tänikon,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.07,mg/l
-Switzerland,Tänikon,2019,pH,pH,7.69,phunits
-Switzerland,Tänikon,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",52.2,%
+Switzerland,T?ikon,2011,pH,pH,8.11,phunits
+Switzerland,T?ikon,2012,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,290,mg/l
+Switzerland,T?ikon,2013,NH3 un-ion,Ammonia un-ionised as N,0.00071,mg/l
+Switzerland,T?ikon,2014,BOD ATU,BOD : 5 Day ATU,1,mg/l
+Switzerland,T?ikon,2015,Cond @ 25C,Conductivity at 25 C,1096,us/cm
+Switzerland,T?ikon,2016,Orthophospht,"Orthophosphate, reactive as P",0.14,mg/l
+Switzerland,T?ikon,2017,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
+Switzerland,T?ikon,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.07,mg/l
+Switzerland,T?ikon,2019,pH,pH,7.69,phunits
+Switzerland,T?ikon,2020,O Diss %sat,"Oxygen, Dissolved, % Saturation",52.2,%
 Switzerland,Thonex,2013,Orthophospht,"Orthophosphate, reactive as P",0.31,mg/l
 Switzerland,Thonex,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
 Switzerland,Thonex,2016,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
 Switzerland,Thonex,2017,Nitrate-N,Nitrate as N,12,mg/l
 Switzerland,Thonex,2018,Oxygen Diss,"Oxygen, Dissolved as O2",5.06,mg/l
 Switzerland,Thonex,2019,BOD ATU,BOD : 5 Day ATU,5.8,mg/l
-Switzerland,Thônex,2011,Nitrite-N,Nitrite as N,0.004,mg/l
-Switzerland,Thônex,2012,Temp Water,Temperature of Water,16.7,cel
-Switzerland,Thônex,2013,Cond @ 25C,Conductivity at 25 C,1714,us/cm
-Switzerland,Thônex,2014,NH3 un-ion,Ammonia un-ionised as N,0.00103,mg/l
-Switzerland,Thônex,2015,Nitrate-N,Nitrate as N,12,mg/l
-Switzerland,Thônex,2016,pH,pH,7.84,phunits
-Switzerland,Thônex,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,150,mg/l
-Switzerland,Thônex,2018,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
-Switzerland,Thônex,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.031,mg/l
-Switzerland,Thônex,2020,Cond @ 25C,Conductivity at 25 C,1051,us/cm
+Switzerland,Th?ex,2011,Nitrite-N,Nitrite as N,0.004,mg/l
+Switzerland,Th?ex,2012,Temp Water,Temperature of Water,16.7,cel
+Switzerland,Th?ex,2013,Cond @ 25C,Conductivity at 25 C,1714,us/cm
+Switzerland,Th?ex,2014,NH3 un-ion,Ammonia un-ionised as N,0.00103,mg/l
+Switzerland,Th?ex,2015,Nitrate-N,Nitrate as N,12,mg/l
+Switzerland,Th?ex,2016,pH,pH,7.84,phunits
+Switzerland,Th?ex,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,150,mg/l
+Switzerland,Th?ex,2018,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
+Switzerland,Th?ex,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.031,mg/l
+Switzerland,Th?ex,2020,Cond @ 25C,Conductivity at 25 C,1051,us/cm
 Switzerland,Thun,2011,Oxygen Diss,"Oxygen, Dissolved as O2",8.14,mg/l
 Switzerland,Thun,2012,NH3 un-ion,Ammonia un-ionised as N,0.0006,mg/l
 Switzerland,Thun,2013,Temp Water,Temperature of Water,15.8,cel
@@ -4610,16 +4610,16 @@ Switzerland,Zurich,2016,Phosphorus-P,"Phosphorus, Total as P",0.22,mg/l
 Switzerland,Zurich,2017,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
 Switzerland,Zurich,2018,Chloride Ion,Chloride,67,mg/l
 Switzerland,Zurich,2019,Sld Sus@105C,"Solids, Suspended at 105 C",5.1,mg/l
-Switzerland,Zürich,2011,Nitrate-N,Nitrate as N,11.9,mg/l
-Switzerland,Zürich,2012,BOD ATU,BOD : 5 Day ATU,1.2,mg/l
-Switzerland,Zürich,2013,Nitrite-N,Nitrite as N,0.14,mg/l
-Switzerland,Zürich,2014,Oxygen Diss,"Oxygen, Dissolved as O2",11.9,mg/l
-Switzerland,Zürich,2015,Lead - as Pb,Lead,0.2,ug/l
-Switzerland,Zürich,2016,PCB Con 028,PCB - 028,0.001,ug/l
-Switzerland,Zürich,2017,Copper - Cu,Copper,2,ug/l
-Switzerland,Zürich,2018,PCB Con 052,PCB - 052,0.001,ug/l
-Switzerland,Zürich,2019,PCB Con 101,PCB - 101,0.001,ug/l
-Switzerland,Zürich,2020,Orthophospht,"Orthophosphate, reactive as P",0.2,mg/l
+Switzerland,Z?ich,2011,Nitrate-N,Nitrate as N,11.9,mg/l
+Switzerland,Z?ich,2012,BOD ATU,BOD : 5 Day ATU,1.2,mg/l
+Switzerland,Z?ich,2013,Nitrite-N,Nitrite as N,0.14,mg/l
+Switzerland,Z?ich,2014,Oxygen Diss,"Oxygen, Dissolved as O2",11.9,mg/l
+Switzerland,Z?ich,2015,Lead - as Pb,Lead,0.2,ug/l
+Switzerland,Z?ich,2016,PCB Con 028,PCB - 028,0.001,ug/l
+Switzerland,Z?ich,2017,Copper - Cu,Copper,2,ug/l
+Switzerland,Z?ich,2018,PCB Con 052,PCB - 052,0.001,ug/l
+Switzerland,Z?ich,2019,PCB Con 101,PCB - 101,0.001,ug/l
+Switzerland,Z?ich,2020,Orthophospht,"Orthophosphate, reactive as P",0.2,mg/l
 Chile,Andacollo,2013,COD as O2,Chemical Oxygen Demand :- {COD},12,mg/l
 Chile,Andacollo,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,2.1,ug/l
 Chile,Andacollo,2015,HCH Gamma,HCH -gamma :- {Lindane},0.003,ug/l
@@ -8998,7 +8998,7 @@ Czechia,Brno,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
 Czechia,Brno,2019,Temp Water,Temperature of Water,4.5,cel
 Czechia,Brno-Kralovo Pole,2019,Cond @ 25C,Conductivity at 25 C,857,us/cm
 Czechia,Brno-Stred,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.048,mg/l
-Czechia,Brno-Židenice,2019,pH,pH,7.98,phunits
+Czechia,Brno-?denice,2019,pH,pH,7.98,phunits
 Czechia,Bruntal,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",86.2,%
 Czechia,Bruntal,2017,N Oxidised,"Nitrogen, Total Oxidised as N",15,mg/l
 Czechia,Bruntal,2018,Nitrate-N,Nitrate as N,15,mg/l
@@ -9289,7 +9289,7 @@ Czechia,Litomerice,2016,NH3 un-ion,Ammonia un-ionised as N,0.00032,mg/l
 Czechia,Litomerice,2017,N Oxidised,"Nitrogen, Total Oxidised as N",20,mg/l
 Czechia,Litomerice,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.049,mg/l
 Czechia,Litomerice,2019,NH3 un-ion,Ammonia un-ionised as N,0.00033,mg/l
-Czechia,Loštice,2019,pH,pH,7.3,phunits
+Czechia,Lo?ice,2019,pH,pH,7.3,phunits
 Czechia,Lovcice,2010,Temp Water,Temperature of Water,18.2,cel
 Czechia,Lovcice,2013,Nitrite-N,Nitrite as N,0.15,mg/l
 Czechia,Lovcice,2015,Cond @ 25C,Conductivity at 25 C,1064,us/cm
@@ -9340,7 +9340,7 @@ Czechia,Most,2019,Sld Sus@105C,"Solids, Suspended at 105 C",47,mg/l
 Czechia,Navsi,2010,BOD ATU,BOD : 5 Day ATU,15,mg/l
 Czechia,Navsi,2013,BOD ATU,BOD : 5 Day ATU,18,mg/l
 Czechia,Navsi,2014,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
-Czechia,Nošovice,2019,Sld Sus@105C,"Solids, Suspended at 105 C",80,mg/l
+Czechia,No?vice,2019,Sld Sus@105C,"Solids, Suspended at 105 C",80,mg/l
 Czechia,Olomouc,2013,Ammonia(N),Ammoniacal Nitrogen as N,2.7,mg/l
 Czechia,Olomouc,2014,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
 Czechia,Olomouc,2015,"Oil,Grse,Fat","Oils, Grease and Fats",1,mg/l
@@ -9558,7 +9558,7 @@ Czechia,Studenka,2017,Cond @ 25C,Conductivity at 25 C,616,us/cm
 Czechia,Studenka,2018,pH,pH,7.53,phunits
 Czechia,Studenka,2019,Nitrite-N,Nitrite as N,0.011,mg/l
 Czechia,Sudice,2016,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
-Czechia,Šumperk,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",81.7,%
+Czechia,?mperk,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",81.7,%
 Czechia,Svratouch,2010,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
 Czechia,Svratouch,2013,N Oxidised,"Nitrogen, Total Oxidised as N",6.9,mg/l
 Czechia,Svratouch,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
@@ -9659,7 +9659,7 @@ Czechia,Vodnany,2016,Temp Water,Temperature of Water,16.5,cel
 Czechia,Vodnany,2017,Nitrite-N,Nitrite as N,0.48,mg/l
 Czechia,Vodnany,2018,NH3 un-ion,Ammonia un-ionised as N,0.0008,mg/l
 Czechia,Vodnany,2019,N Oxidised,"Nitrogen, Total Oxidised as N",10,mg/l
-Czechia,Vražne,2017,Nitrate-N,Nitrate as N,9.52,mg/l
+Czechia,Vra?e,2017,Nitrate-N,Nitrate as N,9.52,mg/l
 Czechia,Vrchlabi,2010,Orthophospht,"Orthophosphate, reactive as P",0.032,mg/l
 Czechia,Vsetin,2010,BOD ATU,BOD : 5 Day ATU,19,mg/l
 Czechia,Vsetin,2013,NH3 un-ion,Ammonia un-ionised as N,0.00085,mg/l
@@ -9675,7 +9675,7 @@ Czechia,Vyskov,2016,Orthophospht,"Orthophosphate, reactive as P",0.2,mg/l
 Czechia,Vyskov,2017,Oxygen Diss,"Oxygen, Dissolved as O2",9.77,mg/l
 Czechia,Vyskov,2018,Nitrate-N,Nitrate as N,11,mg/l
 Czechia,Vyskov,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Czechia,Žacler,2010,pH,pH,8.34,phunits
+Czechia,?cler,2010,pH,pH,8.34,phunits
 Czechia,Zbyslavice,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",112.9,%
 Czechia,Zlin,2010,Orthophospht,"Orthophosphate, reactive as P",0.049,mg/l
 Czechia,Zlin,2013,Nitrite-N,Nitrite as N,0.037,mg/l
@@ -9852,7 +9852,7 @@ Germany,Bamberg,2016,Nitrite-N,Nitrite as N,0.048,mg/l
 Germany,Bamberg,2017,Cond @ 25C,Conductivity at 25 C,840,us/cm
 Germany,Bamberg,2018,NH3 un-ion,Ammonia un-ionised as N,0.00066,mg/l
 Germany,Bamberg,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.035,mg/l
-Germany,Baruther Straße,2019,Oxygen Diss,"Oxygen, Dissolved as O2",16,mg/l
+Germany,Baruther Stra?,2019,Oxygen Diss,"Oxygen, Dissolved as O2",16,mg/l
 Germany,Bautzen,2010,pH,pH,8.11,phunits
 Germany,Bautzen,2013,Orthophospht,"Orthophosphate, reactive as P",0.034,mg/l
 Germany,Bautzen,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,300,mg/l
@@ -9919,8 +9919,8 @@ Germany,Bezirk Friedrichshain-Kreuzberg,2018,Nitrite-N,Nitrite as N,0.056,mg/l
 Germany,Bezirk Friedrichshain-Kreuzberg,2019,NH3 un-ion,Ammonia un-ionised as N,0.00824,mg/l
 Germany,Bezirk Lichtenberg,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",129.9,%
 Germany,Bezirk Lichtenberg,2019,Orthophospht,"Orthophosphate, reactive as P",0.043,mg/l
-Germany,Bezirk Neukölln,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,330,mg/l
-Germany,Bezirk Neukölln,2019,Oxygen Diss,"Oxygen, Dissolved as O2",13.5,mg/l
+Germany,Bezirk Neuk?ln,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,330,mg/l
+Germany,Bezirk Neuk?ln,2019,Oxygen Diss,"Oxygen, Dissolved as O2",13.5,mg/l
 Germany,Bezirk Pankow,2018,Cond @ 25C,Conductivity at 25 C,899,us/cm
 Germany,Bezirk Pankow,2019,Temp Water,Temperature of Water,13.5,cel
 Germany,Bezirk Reinickendorf,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,340,mg/l
@@ -9928,10 +9928,10 @@ Germany,Bezirk Reinickendorf,2019,N Oxidised,"Nitrogen, Total Oxidised as N",4.9
 Germany,Bezirk Spandau,2018,Nitrate-N,Nitrate as N,4.76,mg/l
 Germany,Bezirk Spandau,2019,Oxygen Diss,"Oxygen, Dissolved as O2",9.68,mg/l
 Germany,Bezirk Steglitz-Zehlendorf,2019,Orthophospht,"Orthophosphate, reactive as P",0.021,mg/l
-Germany,Bezirk Tempelhof-Schöneberg,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.86,mg/l
-Germany,Bezirk Tempelhof-Schöneberg,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",93.3,%
-Germany,Bezirk Treptow-Köpenick,2018,NH3 un-ion,Ammonia un-ionised as N,0.00843,mg/l
-Germany,Bezirk Treptow-Köpenick,2019,Cond @ 25C,Conductivity at 25 C,928,us/cm
+Germany,Bezirk Tempelhof-Sch?eberg,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.86,mg/l
+Germany,Bezirk Tempelhof-Sch?eberg,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",93.3,%
+Germany,Bezirk Treptow-K?enick,2018,NH3 un-ion,Ammonia un-ionised as N,0.00843,mg/l
+Germany,Bezirk Treptow-K?enick,2019,Cond @ 25C,Conductivity at 25 C,928,us/cm
 Germany,Biberach,2010,pH,pH,7.61,phunits
 Germany,Biberach An Der Riss,2013,Nitrite-N,Nitrite as N,0.14,mg/l
 Germany,Biberach An Der Riss,2014,Temp Water,Temperature of Water,13.6,cel
@@ -9972,12 +9972,12 @@ Germany,Bochum,2016,Oxygen Diss,"Oxygen, Dissolved as O2",12,mg/l
 Germany,Bochum,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.42,mg/l
 Germany,Bochum,2018,pH,pH,7.79,phunits
 Germany,Bochum,2019,CHLOROPHYLL,Chlorophyll : Acetone Extract,6.1,ug/l
-Germany,Bönen,2013,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
-Germany,Bönen,2014,Sld Sus@105C,"Solids, Suspended at 105 C",6.1,mg/l
-Germany,Bönen,2015,Nitrate-N,Nitrate as N,12.9,mg/l
-Germany,Bönen,2016,Nitrite-N,Nitrite as N,0.059,mg/l
-Germany,Bönen,2017,NH3 un-ion,Ammonia un-ionised as N,0.00416,mg/l
-Germany,Bönen,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",125,%
+Germany,B?en,2013,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
+Germany,B?en,2014,Sld Sus@105C,"Solids, Suspended at 105 C",6.1,mg/l
+Germany,B?en,2015,Nitrate-N,Nitrate as N,12.9,mg/l
+Germany,B?en,2016,Nitrite-N,Nitrite as N,0.059,mg/l
+Germany,B?en,2017,NH3 un-ion,Ammonia un-ionised as N,0.00416,mg/l
+Germany,B?en,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",125,%
 Germany,Bonn,2010,Sld Sus@105C,"Solids, Suspended at 105 C",13,mg/l
 Germany,Bonn,2013,Nitrate-N,Nitrate as N,8.79,mg/l
 Germany,Bonn,2014,Nitrite-N,Nitrite as N,0.11,mg/l
@@ -10113,9 +10113,9 @@ Germany,Burghausen,2017,Nitrate-N,Nitrate as N,4.98,mg/l
 Germany,Burghausen,2018,NH3 un-ion,Ammonia un-ionised as N,0.00072,mg/l
 Germany,Burghausen,2019,Cond @ 25C,Conductivity at 25 C,829,us/cm
 Germany,Burglesum,2019,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
-Germany,Camburger Straße,2013,pH,pH,7.88,phunits
-Germany,Camburger Straße,2014,TurbidityNTU,Turbidity,1,ntu
-Germany,Camburger Straße,2015,N Oxidised,"Nitrogen, Total Oxidised as N",5,mg/l
+Germany,Camburger Stra?,2013,pH,pH,7.88,phunits
+Germany,Camburger Stra?,2014,TurbidityNTU,Turbidity,1,ntu
+Germany,Camburger Stra?,2015,N Oxidised,"Nitrogen, Total Oxidised as N",5,mg/l
 Germany,Carlsfeld,2010,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,260,mg/l
 Germany,Chemnitz,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.033,mg/l
 Germany,Chemnitz,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",90,%
@@ -10206,7 +10206,7 @@ Germany,Dortmund,2016,pH,pH,7.95,phunits
 Germany,Dortmund,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
 Germany,Dortmund,2018,BOD ATU,BOD : 5 Day ATU,1.3,mg/l
 Germany,Dortmund,2019,Orthophospht,"Orthophosphate, reactive as P",0.12,mg/l
-Germany,Dreißigacker,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",111.6,%
+Germany,Drei?gacker,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",111.6,%
 Germany,Dresden,2010,Temp Water,Temperature of Water,18.8,cel
 Germany,Dresden,2013,Nitrate-N,Nitrate as N,11,mg/l
 Germany,Dresden,2014,N Oxidised,"Nitrogen, Total Oxidised as N",11,mg/l
@@ -10519,8 +10519,8 @@ Germany,Giessen,2016,pH,pH,7.78,phunits
 Germany,Giessen,2017,Temp Water,Temperature of Water,16.5,cel
 Germany,Giessen,2018,Cond @ 25C,Conductivity at 25 C,774,us/cm
 Germany,Giessen,2019,Nitrogen - N,"Nitrogen, Total as N",4.5,mg/l
-Germany,Gießen,2018,Nitrogen - N,"Nitrogen, Total as N",3.6,mg/l
-Germany,Gießen,2019,Phosphate,Phosphate :- {TIP},0.092,mg/l
+Germany,Gie?n,2018,Nitrogen - N,"Nitrogen, Total as N",3.6,mg/l
+Germany,Gie?n,2019,Phosphate,Phosphate :- {TIP},0.092,mg/l
 Germany,Gladbeck,2013,Cond @ 25C,Conductivity at 25 C,696,us/cm
 Germany,Gladbeck,2014,Sld Sus@105C,"Solids, Suspended at 105 C",3.8,mg/l
 Germany,Gladbeck,2015,Oxygen Diss,"Oxygen, Dissolved as O2",7.8,mg/l
@@ -10552,7 +10552,7 @@ Germany,Gohlen,2016,Phosphorus-P,"Phosphorus, Total as P",0.13,mg/l
 Germany,Gohlen,2017,Sld Sus@105C,"Solids, Suspended at 105 C",6.5,mg/l
 Germany,Gohlen,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",79.5,%
 Germany,Gohlen,2019,Temp Water,Temperature of Water,19.6,cel
-Germany,Göhlen,2010,Phosphate,Phosphate :- {TIP},0.1,mg/l
+Germany,G?len,2010,Phosphate,Phosphate :- {TIP},0.1,mg/l
 Germany,Gorlitz,2013,Cond @ 25C,Conductivity at 25 C,623,us/cm
 Germany,Gorlitz,2014,Nitrogen - N,"Nitrogen, Total as N",4.5,mg/l
 Germany,Gorlitz,2015,Oxygen Diss,"Oxygen, Dissolved as O2",4.98,mg/l
@@ -10560,7 +10560,7 @@ Germany,Gorlitz,2016,Temp Water,Temperature of Water,19.3,cel
 Germany,Gorlitz,2017,Phosphate,Phosphate :- {TIP},0.16,mg/l
 Germany,Gorlitz,2018,Cond @ 25C,Conductivity at 25 C,629,us/cm
 Germany,Gorlitz,2019,Phosphorus-P,"Phosphorus, Total as P",0.17,mg/l
-Germany,Görlitz,2010,Nitrogen - N,"Nitrogen, Total as N",3.1,mg/l
+Germany,G?litz,2010,Nitrogen - N,"Nitrogen, Total as N",3.1,mg/l
 Germany,Goslar,2010,pH,pH,7.36,phunits
 Germany,Goslar,2013,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
 Germany,Goslar,2014,O Diss %sat,"Oxygen, Dissolved, % Saturation",54.2,%
@@ -10616,7 +10616,7 @@ Germany,Gutsbezirk Kaufunger Wald,2016,Phosphorus-P,"Phosphorus, Total as P",0.0
 Germany,Gutsbezirk Kaufunger Wald,2017,N-Kjeldahl,"Nitrogen, Kjeldahl as N",1,mg/l
 Germany,Gutsbezirk Kaufunger Wald,2018,Nitrate-N,Nitrate as N,16,mg/l
 Germany,Gutsbezirk Kaufunger Wald,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",98.3,%
-Germany,Häfen,2010,Cond @ 25C,Conductivity at 25 C,756,us/cm
+Germany,H?en,2010,Cond @ 25C,Conductivity at 25 C,756,us/cm
 Germany,Hagen,2010,Nitrogen - N,"Nitrogen, Total as N",17,mg/l
 Germany,Hagen,2013,pH,pH,8.39,phunits
 Germany,Hagen,2014,Oxygen Diss,"Oxygen, Dissolved as O2",14.1,mg/l
@@ -10887,7 +10887,7 @@ Germany,Kempten (Allgau),2016,Nitrite-N,Nitrite as N,0.012,mg/l
 Germany,Kempten (Allgau),2017,Oxygen Diss,"Oxygen, Dissolved as O2",9.98,mg/l
 Germany,Kempten (Allgau),2018,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
 Germany,Kempten (Allgau),2019,NH3 un-ion,Ammonia un-ionised as N,0.00035,mg/l
-Germany,Kempten (Allgäu),2010,Nitrate-N,Nitrate as N,13,mg/l
+Germany,Kempten (Allg?),2010,Nitrate-N,Nitrate as N,13,mg/l
 Germany,Kiel,2010,pH,pH,7.74,phunits
 Germany,Kiel,2013,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Germany,Kiel,2014,Cond @ 25C,Conductivity at 25 C,686,us/cm
@@ -10926,11 +10926,11 @@ Germany,Koblenz,2016,NH3 un-ion,Ammonia un-ionised as N,0.00064,mg/l
 Germany,Koblenz,2017,Orthophospht,"Orthophosphate, reactive as P",0.054,mg/l
 Germany,Koblenz,2018,Nitrate-N,Nitrate as N,17.9,mg/l
 Germany,Koblenz,2019,Nitrite-N,Nitrite as N,0.058,mg/l
-Germany,Koblenzer Straße,2015,Oxygen Diss,"Oxygen, Dissolved as O2",10.5,mg/l
-Germany,Koblenzer Straße,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
-Germany,Koblenzer Straße,2017,Nitrate-N,Nitrate as N,18,mg/l
-Germany,Koblenzer Straße,2018,Oxygen Diss,"Oxygen, Dissolved as O2",9.01,mg/l
-Germany,Koblenzer Straße,2019,Temp Water,Temperature of Water,14.4,cel
+Germany,Koblenzer Stra?,2015,Oxygen Diss,"Oxygen, Dissolved as O2",10.5,mg/l
+Germany,Koblenzer Stra?,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
+Germany,Koblenzer Stra?,2017,Nitrate-N,Nitrate as N,18,mg/l
+Germany,Koblenzer Stra?,2018,Oxygen Diss,"Oxygen, Dissolved as O2",9.01,mg/l
+Germany,Koblenzer Stra?,2019,Temp Water,Temperature of Water,14.4,cel
 Germany,Koln,2010,Nitrite-N,Nitrite as N,0.04,mg/l
 Germany,Koln,2013,Cond @ 25C,Conductivity at 25 C,807,us/cm
 Germany,Koln,2014,NH3 un-ion,Ammonia un-ionised as N,0.00042,mg/l
@@ -10939,14 +10939,14 @@ Germany,Koln,2016,pH,pH,7.73,phunits
 Germany,Koln,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",88.4,%
 Germany,Koln,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
 Germany,Koln,2019,N Oxidised,"Nitrogen, Total Oxidised as N",18,mg/l
-Germany,Köln,2010,Orthophospht,"Orthophosphate, reactive as P",0.045,mg/l
-Germany,Köln,2013,Orthophospht,"Orthophosphate, reactive as P",0.038,mg/l
-Germany,Köln,2014,Nitrite-N,Nitrite as N,0.035,mg/l
-Germany,Köln,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
-Germany,Köln,2016,Cond @ 25C,Conductivity at 25 C,801,us/cm
-Germany,Köln,2017,N Oxidised,"Nitrogen, Total Oxidised as N",17,mg/l
-Germany,Köln,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",96.4,%
-Germany,Köln,2019,Oxygen Diss,"Oxygen, Dissolved as O2",9.59,mg/l
+Germany,K?n,2010,Orthophospht,"Orthophosphate, reactive as P",0.045,mg/l
+Germany,K?n,2013,Orthophospht,"Orthophosphate, reactive as P",0.038,mg/l
+Germany,K?n,2014,Nitrite-N,Nitrite as N,0.035,mg/l
+Germany,K?n,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
+Germany,K?n,2016,Cond @ 25C,Conductivity at 25 C,801,us/cm
+Germany,K?n,2017,N Oxidised,"Nitrogen, Total Oxidised as N",17,mg/l
+Germany,K?n,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",96.4,%
+Germany,K?n,2019,Oxygen Diss,"Oxygen, Dissolved as O2",9.59,mg/l
 Germany,Konigs Wusterhausen,2010,pH,pH,7.78,phunits
 Germany,Konigs Wusterhausen,2013,NH3 un-ion,Ammonia un-ionised as N,0.0005,mg/l
 Germany,Konstanz,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
@@ -11224,14 +11224,14 @@ Germany,Monchengladbach,2016,Nitrogen - N,"Nitrogen, Total as N",11,mg/l
 Germany,Monchengladbach,2017,Cond @ 25C,Conductivity at 25 C,815,us/cm
 Germany,Monchengladbach,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.062,mg/l
 Germany,Monchengladbach,2019,pH,pH,8.14,phunits
-Germany,Mönchengladbach,2010,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.00001,mg/l
-Germany,Mönchengladbach,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",94.8,%
-Germany,Mönchengladbach,2014,Phosphate,Phosphate :- {TIP},0.026,mg/l
-Germany,Mönchengladbach,2015,Nitrite-N,Nitrite as N,0.041,mg/l
-Germany,Mönchengladbach,2016,N Oxidised,"Nitrogen, Total Oxidised as N",11,mg/l
-Germany,Mönchengladbach,2017,Sld Sus@105C,"Solids, Suspended at 105 C",3.1,mg/l
-Germany,Mönchengladbach,2018,Oxygen Diss,"Oxygen, Dissolved as O2",11,mg/l
-Germany,Mönchengladbach,2019,Phosphorus-P,"Phosphorus, Total as P",0.03,mg/l
+Germany,M?chengladbach,2010,N-Kjeldahl,"Nitrogen, Kjeldahl as N",0.00001,mg/l
+Germany,M?chengladbach,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",94.8,%
+Germany,M?chengladbach,2014,Phosphate,Phosphate :- {TIP},0.026,mg/l
+Germany,M?chengladbach,2015,Nitrite-N,Nitrite as N,0.041,mg/l
+Germany,M?chengladbach,2016,N Oxidised,"Nitrogen, Total Oxidised as N",11,mg/l
+Germany,M?chengladbach,2017,Sld Sus@105C,"Solids, Suspended at 105 C",3.1,mg/l
+Germany,M?chengladbach,2018,Oxygen Diss,"Oxygen, Dissolved as O2",11,mg/l
+Germany,M?chengladbach,2019,Phosphorus-P,"Phosphorus, Total as P",0.03,mg/l
 Germany,Montabaur,2013,Nitrate-N,Nitrate as N,11,mg/l
 Germany,Montabaur,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.12,mg/l
 Germany,Montabaur,2015,pH,pH,8.26,phunits
@@ -11494,7 +11494,7 @@ Germany,Osnabruck,2017,NH3 un-ion,Ammonia un-ionised as N,0.00136,mg/l
 Germany,Osnabruck,2018,Cond @ 25C,Conductivity at 25 C,854,us/cm
 Germany,Osnabruck,2019,pH,pH,8.05,phunits
 Germany,Osnabrueck,2010,Oxygen Diss,"Oxygen, Dissolved as O2",8.42,mg/l
-Germany,Östringen,2018,N Oxidised,"Nitrogen, Total Oxidised as N",2.7,mg/l
+Germany,?tringen,2018,N Oxidised,"Nitrogen, Total Oxidised as N",2.7,mg/l
 Germany,Overath,2013,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
 Germany,Overath,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.043,mg/l
 Germany,Overath,2015,Nitrite-N,Nitrite as N,0.11,mg/l
@@ -11780,19 +11780,19 @@ Germany,Schwabach,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,290,mg/l
 Germany,Schwabach,2017,N Oxidised,"Nitrogen, Total Oxidised as N",5,mg/l
 Germany,Schwabach,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Germany,Schwabach,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",89.9,%
-Germany,Schwäbisch Gmund,2013,pH,pH,7.89,phunits
-Germany,Schwäbisch Gmund,2014,Oxygen Diss,"Oxygen, Dissolved as O2",9.69,mg/l
-Germany,Schwäbisch Gmund,2015,Cond @ 25C,Conductivity at 25 C,1011,us/cm
-Germany,Schwäbisch Gmund,2016,Nitrite-N,Nitrite as N,0.016,mg/l
-Germany,Schwäbisch Gmund,2017,Temp Water,Temperature of Water,11.9,cel
-Germany,Schwäbisch Gmund,2018,NH3 un-ion,Ammonia un-ionised as N,0.00049,mg/l
-Germany,Schwäbisch Gmund,2019,Nitrite-N,Nitrite as N,0.048,mg/l
+Germany,Schw?isch Gmund,2013,pH,pH,7.89,phunits
+Germany,Schw?isch Gmund,2014,Oxygen Diss,"Oxygen, Dissolved as O2",9.69,mg/l
+Germany,Schw?isch Gmund,2015,Cond @ 25C,Conductivity at 25 C,1011,us/cm
+Germany,Schw?isch Gmund,2016,Nitrite-N,Nitrite as N,0.016,mg/l
+Germany,Schw?isch Gmund,2017,Temp Water,Temperature of Water,11.9,cel
+Germany,Schw?isch Gmund,2018,NH3 un-ion,Ammonia un-ionised as N,0.00049,mg/l
+Germany,Schw?isch Gmund,2019,Nitrite-N,Nitrite as N,0.048,mg/l
 Germany,Schwabisch Hall,2013,Cond @ 25C,Conductivity at 25 C,1076,us/cm
 Germany,Schwabisch Hall,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,300,mg/l
 Germany,Schwabisch Hall,2015,O Diss %sat,"Oxygen, Dissolved, % Saturation",77.1,%
 Germany,Schwabisch Hall,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.085,mg/l
 Germany,Schwabisch Hall,2017,N Oxidised,"Nitrogen, Total Oxidised as N",6.8,mg/l
-Germany,Schwäbisch Hall,2010,NH3 un-ion,Ammonia un-ionised as N,0.0019,mg/l
+Germany,Schw?isch Hall,2010,NH3 un-ion,Ammonia un-ionised as N,0.0019,mg/l
 Germany,Schwandorf,2010,pH,pH,8.06,phunits
 Germany,Schwandorf,2013,Orthophospht,"Orthophosphate, reactive as P",0.074,mg/l
 Germany,Schwandorf,2014,Temp Water,Temperature of Water,12.8,cel
@@ -11937,13 +11937,13 @@ Germany,Stralsund,2016,Sld Sus@105C,"Solids, Suspended at 105 C",4,mg/l
 Germany,Stralsund,2017,BOD ATU,BOD : 5 Day ATU,4.5,mg/l
 Germany,Stralsund,2018,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
 Germany,Stralsund,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.5,mg/l
-Germany,Straße Des Friedens,2013,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
-Germany,Straße Des Friedens,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.5,mg/l
-Germany,Straße Des Friedens,2015,BOD ATU,BOD : 5 Day ATU,7.3,mg/l
-Germany,Straße Des Friedens,2016,Sld Sus@105C,"Solids, Suspended at 105 C",10,mg/l
-Germany,Straße Des Friedens,2017,Sld Sus@105C,"Solids, Suspended at 105 C",7.7,mg/l
-Germany,Straße Des Friedens,2018,BOD ATU,BOD : 5 Day ATU,3.6,mg/l
-Germany,Straße Des Friedens,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.5,mg/l
+Germany,Stra? Des Friedens,2013,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
+Germany,Stra? Des Friedens,2014,Ammonia(N),Ammoniacal Nitrogen as N,0.5,mg/l
+Germany,Stra? Des Friedens,2015,BOD ATU,BOD : 5 Day ATU,7.3,mg/l
+Germany,Stra? Des Friedens,2016,Sld Sus@105C,"Solids, Suspended at 105 C",10,mg/l
+Germany,Stra? Des Friedens,2017,Sld Sus@105C,"Solids, Suspended at 105 C",7.7,mg/l
+Germany,Stra? Des Friedens,2018,BOD ATU,BOD : 5 Day ATU,3.6,mg/l
+Germany,Stra? Des Friedens,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.5,mg/l
 Germany,Stuttgart,2010,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
 Germany,Stuttgart,2013,NO FLOW/SAMP,No flow /No sample,0,coded
 Germany,Stuttgart,2014,NO FLOW/SAMP,No flow /No sample,0,coded
@@ -12227,7 +12227,7 @@ Germany,Worms,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.039,mg/l
 Germany,Worms,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,250,mg/l
 Germany,Worms,2018,Temp Water,Temperature of Water,16.8,cel
 Germany,Worms,2019,Nitrate-N,Nitrate as N,6.27,mg/l
-Germany,Wörth,2010,NH3 un-ion,Ammonia un-ionised as N,0.00044,mg/l
+Germany,W?th,2010,NH3 un-ion,Ammonia un-ionised as N,0.00044,mg/l
 Germany,Worth Am Rhein,2013,N Oxidised,"Nitrogen, Total Oxidised as N",6.3,mg/l
 Germany,Worth Am Rhein,2014,BOD ATU,BOD : 5 Day ATU,3.1,mg/l
 Germany,Worth Am Rhein,2015,Cond @ 25C,Conductivity at 25 C,798,us/cm
@@ -14165,7 +14165,7 @@ Spain,Ponferrada,2017,Phosphate,Phosphate :- {TIP},0.15,mg/l
 Spain,Ponferrada,2018,Nitrogen - N,"Nitrogen, Total as N",2.4,mg/l
 Spain,Ponferrada,2019,Temp Water,Temperature of Water,16.3,cel
 Spain,Pont De Vilomara I Rocafort,2010,Cond @ 25C,Conductivity at 25 C,723,us/cm
-Spain,Pontes De Garcia Rodríguez,2010,Sld Sus@105C,"Solids, Suspended at 105 C",9.4,mg/l
+Spain,Pontes De Garcia Rodr?uez,2010,Sld Sus@105C,"Solids, Suspended at 105 C",9.4,mg/l
 Spain,Pontevedra,2010,Phosphorus-P,"Phosphorus, Total as P",0.17,mg/l
 Spain,Pontevedra,2013,Cond @ 25C,Conductivity at 25 C,591,us/cm
 Spain,Pontevedra,2014,Oxygen Diss,"Oxygen, Dissolved as O2",8.29,mg/l
@@ -14892,7 +14892,7 @@ Estonia,Kohtla-Jarve,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
 Estonia,Kohtla-Jarve,2017,NH3 un-ion,Ammonia un-ionised as N,0.00071,mg/l
 Estonia,Kohtla-Jarve,2018,pH,pH,8.17,phunits
 Estonia,Kohtla-Jarve,2019,Sld Sus@105C,"Solids, Suspended at 105 C",4.9,mg/l
-Estonia,Kohtla-Järve,2019,Temp Water,Temperature of Water,13.5,cel
+Estonia,Kohtla-J?ve,2019,Temp Water,Temperature of Water,13.5,cel
 Estonia,Narva,2010,Cond @ 25C,Conductivity at 25 C,713,us/cm
 Estonia,Narva,2013,Oxygen Diss,"Oxygen, Dissolved as O2",11.6,mg/l
 Estonia,Narva,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,9.8,ug/l
@@ -14953,7 +14953,7 @@ Finland,Espoo,2016,Temp Water,Temperature of Water,7.5,cel
 Finland,Espoo,2017,pH,pH,7.67,phunits
 Finland,Espoo,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Finland,Espoo,2019,Orthophospht,"Orthophosphate, reactive as P",0.048,mg/l
-Finland,Hämeenlinna,2010,TurbidityNTU,Turbidity,1.3,ntu
+Finland,H?eenlinna,2010,TurbidityNTU,Turbidity,1.3,ntu
 Finland,Harjavalta,2010,Oxygen Diss,"Oxygen, Dissolved as O2",11.3,mg/l
 Finland,Harjavalta,2013,Cond @ 25C,Conductivity at 25 C,763,us/cm
 Finland,Harjavalta,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,260,mg/l
@@ -15011,8 +15011,8 @@ Finland,Jyvaskyla,2016,pH,pH,7.51,phunits
 Finland,Jyvaskyla,2017,N Oxidised,"Nitrogen, Total Oxidised as N",9.1,mg/l
 Finland,Jyvaskyla,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Finland,Jyvaskyla,2019,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
-Finland,Jyväskylä,Nitrate-N,Nitrate as N,9.09,mg/l,
-Finland,Jyväskylä,Nitrite-N,Nitrite as N,0.012,mg/l,
+Finland,Jyv?kyl?Nitrate-N,Nitrate as N,9.09,mg/l,,
+Finland,Jyv?kyl?Nitrite-N,Nitrite as N,0.012,mg/l,,
 Finland,Kajaani,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",96.8,%
 Finland,Kajaani,2013,Oxygen Diss,"Oxygen, Dissolved as O2",10,mg/l
 Finland,Kajaani,2014,TurbidityNTU,Turbidity,1,ntu
@@ -15445,7 +15445,7 @@ France,Blenod-Les-Pont-A-Mousson,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.1,mg
 France,Blenod-Les-Pont-A-Mousson,2017,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)",0,pres/nf
 France,Blenod-Les-Pont-A-Mousson,2018,pH,pH,7.91,phunits
 France,Blenod-Les-Pont-A-Mousson,2019,N Oxidised,"Nitrogen, Total Oxidised as N",4.8,mg/l
-France,Blenod-Les-Pont-À-Mousson,2010,Sld Sus@105C,"Solids, Suspended at 105 C",11,mg/l
+France,Blenod-Les-Pont-?Mousson,2010,Sld Sus@105C,"Solids, Suspended at 105 C",11,mg/l
 France,Blois,2010,Nitrate-N,Nitrate as N,4.77,mg/l
 France,Blois,2015,Nitrite-N,Nitrite as N,0.029,mg/l
 France,Blois,2016,NH3 un-ion,Ammonia un-ionised as N,0.00127,mg/l
@@ -15604,7 +15604,7 @@ France,Chalon-Sur-Saone,2016,NH3 un-ion,Ammonia un-ionised as N,0.00085,mg/l
 France,Chalon-Sur-Saone,2017,Oxygen Diss,"Oxygen, Dissolved as O2",12,mg/l
 France,Chalon-Sur-Saone,2018,Orthophospht,"Orthophosphate, reactive as P",0.028,mg/l
 France,Chalon-Sur-Saone,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,160,mg/l
-France,Chalon-Sur-Saône,2010,Temp Water,Temperature of Water,3.6,cel
+France,Chalon-Sur-Sa?e,2010,Temp Water,Temperature of Water,3.6,cel
 France,Chalons-En-Champagne,2010,Cond @ 25C,Conductivity at 25 C,981,us/cm
 France,Chalons-En-Champagne,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.23,mg/l
 France,Chalons-En-Champagne,2016,pH,pH,7.51,phunits
@@ -15675,7 +15675,7 @@ France,Chatenois,2015,Temp Water,Temperature of Water,21.8,cel
 France,Chatenois,2017,Nitrite-N,Nitrite as N,0.063,mg/l
 France,Chatenois,2018,Cond @ 25C,Conductivity at 25 C,974,us/cm
 France,Chatenois,2019,NH3 un-ion,Ammonia un-ionised as N,0.00072,mg/l
-France,Châtenois,2010,Mg Filtered,"Magnesium, Dissolved",15,mg/l
+France,Ch?enois,2010,Mg Filtered,"Magnesium, Dissolved",15,mg/l
 France,Chauny,2010,pH,pH,7.21,phunits
 France,Chauny,2015,O Diss %sat,"Oxygen, Dissolved, % Saturation",55.4,%
 France,Cherbourg-Octeville,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.1,mg/l
@@ -16136,7 +16136,7 @@ France,Labastide-Cezeracq,2016,NH3 un-ion,Ammonia un-ionised as N,0.0005,mg/l
 France,Labastide-Cezeracq,2017,Oxygen Diss,"Oxygen, Dissolved as O2",11.5,mg/l
 France,Labastide-Cezeracq,2018,Temp Water,Temperature of Water,8.7,cel
 France,Labastide-Cezeracq,2019,Cond @ 25C,Conductivity at 25 C,704,us/cm
-France,Labastide-Cezéracq,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+France,Labastide-Cez?acq,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 France,Lacq,2015,Nitrate-N,Nitrate as N,12,mg/l
 France,Lacq,2016,Nitrite-N,Nitrite as N,0.01,mg/l
 France,Lacq,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
@@ -16318,7 +16318,7 @@ France,Macon,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 France,Macon,2017,pH,pH,7.84,phunits
 France,Macon,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 France,Macon,2019,pH,pH,8,phunits
-France,Mâcon,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",96.2,%
+France,M?on,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",96.2,%
 France,Malroy,2015,N Oxidised,"Nitrogen, Total Oxidised as N",14,mg/l
 France,Malroy,2016,Nitrate-N,Nitrate as N,14,mg/l
 France,Malroy,2017,Nitrite-N,Nitrite as N,0.024,mg/l
@@ -16526,7 +16526,7 @@ France,Nimes,2016,Cond @ 25C,Conductivity at 25 C,771,us/cm
 France,Nimes,2017,NH3 un-ion,Ammonia un-ionised as N,0.0006,mg/l
 France,Nimes,2018,TarryResidus,Tarry residues,0,pres/nf
 France,Nimes,2019,Bathers 100m,Bathers per 100 m,0,no.
-France,Nîmes,2010,SALinsitu,Salinity : In Situ,30.11,ppt
+France,N?es,2010,SALinsitu,Salinity : In Situ,30.11,ppt
 France,Niort,2010,BWP - O.L.,Bathing Water Profile : Other Litter (incl. plastics),1,garber c
 France,Niort,2015,BWP - A.F.,Bathing Water Profile : Animal Faeces,1,garber c
 France,Niort,2016,E.coli C-MF,Escherichia coli : Confirmed : MF,10,no/100ml
@@ -16637,8 +16637,8 @@ France,Pointe-A-Pitre,2016,SALinsitu,Salinity : In Situ,32.65,ppt
 France,Pointe-A-Pitre,2017,Temp Water,Temperature of Water,21,cel
 France,Pointe-A-Pitre,2018,Bathers 100m,Bathers per 100 m,0,no.
 France,Pointe-A-Pitre,2019,Beach Users,Number of beach users,29,no.
-France,Pointe-À-Pitre,2018,Vol Filtered,Volume of Sample Filtered,650,ml
-France,Pointe-À-Pitre,2019,MST Filter,MST Filtration,2,coded
+France,Pointe-?Pitre,2018,Vol Filtered,Volume of Sample Filtered,650,ml
+France,Pointe-?Pitre,2019,MST Filter,MST Filtration,2,coded
 France,Poitiers,2010,Bathers 100m,Bathers per 100 m,4,no.
 France,Poitiers,2015,IE Pres,Enterococci: Intestinal: Presumptive: MF,10,cfu/0.1l
 France,Poitiers,2016,TarryResidus,Tarry residues,0,pres/nf
@@ -16650,7 +16650,7 @@ France,Pont-A-Mousson,2016,Temp Water,Temperature of Water,19.8,cel
 France,Pont-A-Mousson,2017,BWP - A.F.,Bathing Water Profile : Animal Faeces,0,garber c
 France,Pont-A-Mousson,2018,IE Conf,Enterococci: Intestinal: Confirmed: MF,10,cfu/0.1l
 France,Pont-A-Mousson,2019,BWP - O.L.,Bathing Water Profile : Other Litter (incl. plastics),1,garber c
-France,Pont-À-Mousson,2010,SALinsitu,Salinity : In Situ,31.62,ppt
+France,Pont-?Mousson,2010,SALinsitu,Salinity : In Situ,31.62,ppt
 France,Port-De-Bouc,2010,Pollutn Sign,Warning Sign - Short Term Bathing Water Pollution,0,pres/nf
 France,Port-De-Bouc,2015,Beach Users,Number of beach users,29,no.
 France,Port-De-Bouc,2016,BWP - O.L.,Bathing Water Profile : Other Litter (incl. plastics),1,garber c
@@ -16957,10 +16957,10 @@ France,Saint-Quentin,2016,IE Conf,Enterococci: Intestinal: Confirmed: MF,3000,cf
 France,Saint-Quentin,2017,MST Filter,MST Filtration,2,coded
 France,Saint-Quentin,2018,IE Pres,Enterococci: Intestinal: Presumptive: MF,3000,cfu/0.1l
 France,Saint-Quentin,2019,E.coli C-MF,Escherichia coli : Confirmed : MF,2200,no/100ml
-France,Saint-Raphaël,2016,Vol Filtered,Volume of Sample Filtered,870,ml
-France,Saint-Raphaël,2017,MST Filter,MST Filtration,2,coded
-France,Saint-Raphaël,2018,E.coli C-MF,Escherichia coli : Confirmed : MF,3800,no/100ml
-France,Saint-Raphaël,2019,IE Pres,Enterococci: Intestinal: Presumptive: MF,4100,cfu/0.1l
+France,Saint-Rapha?,2016,Vol Filtered,Volume of Sample Filtered,870,ml
+France,Saint-Rapha?,2017,MST Filter,MST Filtration,2,coded
+France,Saint-Rapha?,2018,E.coli C-MF,Escherichia coli : Confirmed : MF,3800,no/100ml
+France,Saint-Rapha?,2019,IE Pres,Enterococci: Intestinal: Presumptive: MF,4100,cfu/0.1l
 France,Saint-Remy-Sur-Avre,2015,IE Conf,Enterococci: Intestinal: Confirmed: MF,4100,cfu/0.1l
 France,Saint-Remy-Sur-Avre,2016,Vol Filtered,Volume of Sample Filtered,550,ml
 France,Saint-Remy-Sur-Avre,2017,E.coli C-MF,Escherichia coli : Confirmed : MF,3200,no/100ml
@@ -17004,7 +17004,7 @@ France,Salouel,2016,Pollutn Sign,Warning Sign - Short Term Bathing Water Polluti
 France,Salouel,2017,BWP - A.B.,Bathing Water Profile : Algal Bloom,0,garber c
 France,Salouel,2018,E.coli C-MF,Escherichia coli : Confirmed : MF,10,no/100ml
 France,Salouel,2019,Bathers 100m,Bathers per 100 m,0,no.
-France,Salouël,2010,TarryResidus,Tarry residues,0,pres/nf
+France,Salou?,2010,TarryResidus,Tarry residues,0,pres/nf
 France,Sangatte,2010,Vol Filtered,Volume of Sample Filtered,600,ml
 France,Sangatte,2015,SALinsitu,Salinity : In Situ,32.01,ppt
 France,Sangatte,2016,IE Pres,Enterococci: Intestinal: Presumptive: MF,10,cfu/0.1l
@@ -18297,10 +18297,10 @@ Croatia,Lug,2017,CHLOROPHYLL,Chlorophyll : Acetone Extract,11,ug/l
 Croatia,Lug,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",100.4,%
 Croatia,Lug,2019,TurbidityNTU,Turbidity,3.1,ntu
 Croatia,Opcina Polaca,2019,Orthophospht,"Orthophosphate, reactive as P",0.12,mg/l
-Croatia,Opcina Varaždin,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,330,mg/l
-Croatia,Opcina Varaždin,2017,Temp Water,Temperature of Water,13.8,cel
-Croatia,Opcina Varaždin,2018,Cond @ 25C,Conductivity at 25 C,999,us/cm
-Croatia,Opcina Varaždin,2019,Oxygen Diss,"Oxygen, Dissolved as O2",10.4,mg/l
+Croatia,Opcina Vara?in,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,330,mg/l
+Croatia,Opcina Vara?in,2017,Temp Water,Temperature of Water,13.8,cel
+Croatia,Opcina Vara?in,2018,Cond @ 25C,Conductivity at 25 C,999,us/cm
+Croatia,Opcina Vara?in,2019,Oxygen Diss,"Oxygen, Dissolved as O2",10.4,mg/l
 Croatia,Osijek,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Croatia,Osijek,2013,pH,pH,8.16,phunits
 Croatia,Osijek,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,2.9,ug/l
@@ -18353,7 +18353,7 @@ Croatia,Velika Gorica,2016,Phosphorus-P,"Phosphorus, Total as P",1.26302,mg/l
 Croatia,Velika Gorica,2017,Temp Water,Temperature of Water,10.5,cel
 Croatia,Velika Gorica,2018,Sld Sus@105C,"Solids, Suspended at 105 C",16,mg/l
 Croatia,Velika Gorica,2019,Temp Water,Temperature of Water,13.9,cel
-Croatia,Višnjan,2018,Iron - as Fe,Iron,1106.8,ug/l
+Croatia,Vi?jan,2018,Iron - as Fe,Iron,1106.8,ug/l
 Croatia,Zagreb,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Croatia,Zagreb,2013,Phosphorus-P,"Phosphorus, Total as P",1.1477,mg/l
 Croatia,Zagreb,2014,Sld Sus@105C,"Solids, Suspended at 105 C",15,mg/l
@@ -21125,9 +21125,9 @@ Iceland,Grundartangi,2017,Nitrate-N,Nitrate as N,11,mg/l
 Iceland,Grundartangi,2018,BOD ATU,BOD : 5 Day ATU,1.5,mg/l
 Iceland,Grundartangi,2019,Nitrite-N,Nitrite as N,0.046,mg/l
 Iceland,Hafnarfjordur,2010,NH3 un-ion,Ammonia un-ionised as N,0.00072,mg/l
-Iceland,Hafnarfjörður,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",114.6,%
-Iceland,Hafnarfjörður,2018,Orthophospht,"Orthophosphate, reactive as P",0.11,mg/l
-Iceland,Hafnarfjörður,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
+Iceland,Hafnarfj??r,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",114.6,%
+Iceland,Hafnarfj??r,2018,Orthophospht,"Orthophosphate, reactive as P",0.11,mg/l
+Iceland,Hafnarfj??r,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,270,mg/l
 Iceland,Hafnarfjorour,2014,pH,pH,8.24,phunits
 Iceland,Hafnarfjorour,2015,Temp Water,Temperature of Water,13.7,cel
 Iceland,Hafnarfjorour,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
@@ -21152,7 +21152,7 @@ Iceland,Reykjavik,2016,NH3 un-ion,Ammonia un-ionised as N,0.0005,mg/l
 Iceland,Reykjavik,2017,Temp Water,Temperature of Water,14.9,cel
 Iceland,Reykjavik,2018,Orthophospht,"Orthophosphate, reactive as P",0.29,mg/l
 Iceland,Reykjavik,2019,Nitrite-N,Nitrite as N,0.11,mg/l
-Iceland,Suðurnesjabær,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Iceland,Su?rnesjab?,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Israel,Afula,2012,Oxygen Diss,"Oxygen, Dissolved as O2",7.69,mg/l
 Israel,Afula,2013,N Oxidised,"Nitrogen, Total Oxidised as N",9.9,mg/l
 Israel,Afula,2014,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,210,mg/l
@@ -24829,9 +24829,9 @@ Lithuania,Mazeikiai,2016,BOD ATU,BOD : 5 Day ATU,7.56,mg/l
 Lithuania,Mazeikiai,2017,COD as O2,Chemical Oxygen Demand :- {COD},50.5,mg/l
 Lithuania,Mazeikiai,2018,COD as O2,Chemical Oxygen Demand :- {COD},46.3,mg/l
 Lithuania,Mazeikiai,2019,BOD ATU,BOD : 5 Day ATU,17.97,mg/l
-Lithuania,Mažeikiai,2014,Temp Water,Temperature of Water,8.4,cel
-Lithuania,Mažeikiai,2015,Flow l/s,"Flow, instantaneous",9.94,l/s
-Lithuania,Mažeikiai,2016,Sld Sus@105C,"Solids, Suspended at 105 C",16,mg/l
+Lithuania,Ma?ikiai,2014,Temp Water,Temperature of Water,8.4,cel
+Lithuania,Ma?ikiai,2015,Flow l/s,"Flow, instantaneous",9.94,l/s
+Lithuania,Ma?ikiai,2016,Sld Sus@105C,"Solids, Suspended at 105 C",16,mg/l
 Lithuania,Naujoji Akmene,2010,BOD ATU,BOD : 5 Day ATU,6.21,mg/l
 Lithuania,Naujoji Akmene,2013,Temp Water,Temperature of Water,8.3,cel
 Lithuania,Naujoji Akmene,2014,Flow l/s,"Flow, instantaneous",5.89,l/s
@@ -24859,9 +24859,9 @@ Lithuania,Panevezys,2016,COD as O2,Chemical Oxygen Demand :- {COD},300,mg/l
 Lithuania,Panevezys,2017,BOD ATU,BOD : 5 Day ATU,134.82,mg/l
 Lithuania,Panevezys,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.034,mg/l
 Lithuania,Panevezys,2019,pH,pH,7.91,phunits
-Lithuania,Panevežys,2014,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
-Lithuania,Panevežys,2015,Nitrate-N,Nitrate as N,12,mg/l
-Lithuania,Panevežys,2016,Nitrite-N,Nitrite as N,0.021,mg/l
+Lithuania,Paneve?s,2014,N Oxidised,"Nitrogen, Total Oxidised as N",12,mg/l
+Lithuania,Paneve?s,2015,Nitrate-N,Nitrate as N,12,mg/l
+Lithuania,Paneve?s,2016,Nitrite-N,Nitrite as N,0.021,mg/l
 Lithuania,Preila,2010,NH3 un-ion,Ammonia un-ionised as N,0.00031,mg/l
 Lithuania,Siauliai,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",81.1,%
 Lithuania,Siauliai,2013,Orthophospht,"Orthophosphate, reactive as P",0.056,mg/l
@@ -24871,9 +24871,9 @@ Lithuania,Siauliai,2016,Oxygen Diss,"Oxygen, Dissolved as O2",10.8,mg/l
 Lithuania,Siauliai,2017,Cond @ 25C,Conductivity at 25 C,925,us/cm
 Lithuania,Siauliai,2018,Temp Water,Temperature of Water,3.5,cel
 Lithuania,Siauliai,2019,Cond @ 25C,Conductivity at 25 C,936,us/cm
-Lithuania,Šiauliai,2014,Oxygen Diss,"Oxygen, Dissolved as O2",11.2,mg/l
-Lithuania,Šiauliai,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Lithuania,Šiauliai,2016,pH,pH,7.88,phunits
+Lithuania,?auliai,2014,Oxygen Diss,"Oxygen, Dissolved as O2",11.2,mg/l
+Lithuania,?auliai,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
+Lithuania,?auliai,2016,pH,pH,7.88,phunits
 Lithuania,Vilnius,2010,N Oxidised,"Nitrogen, Total Oxidised as N",8,mg/l
 Lithuania,Vilnius,2013,Nitrate-N,Nitrate as N,7.98,mg/l
 Lithuania,Vilnius,2014,Nitrite-N,Nitrite as N,0.016,mg/l
@@ -24905,8 +24905,8 @@ Luxembourg,Helmsange,2016,Nitrite-N,Nitrite as N,0.036,mg/l
 Luxembourg,Helmsange,2017,N Oxidised,"Nitrogen, Total Oxidised as N",14,mg/l
 Luxembourg,Helmsange,2018,Cond @ 25C,Conductivity at 25 C,989,us/cm
 Luxembourg,Helmsange,2019,Nitrate-N,Nitrate as N,14,mg/l
-Luxembourg,Käerjeng,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",98.4,%
-Luxembourg,Käerjeng,2019,Orthophospht,"Orthophosphate, reactive as P",0.4,mg/l
+Luxembourg,K?rjeng,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",98.4,%
+Luxembourg,K?rjeng,2019,Orthophospht,"Orthophosphate, reactive as P",0.4,mg/l
 Luxembourg,Luxembourg,2010,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
 Luxembourg,Luxembourg,2013,Temp Water,Temperature of Water,14.1,cel
 Luxembourg,Luxembourg,2014,Cond @ 25C,Conductivity at 25 C,1070,us/cm
@@ -24981,7 +24981,7 @@ Morocco,El Jadida,2018,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
 Morocco,El Jadida,2019,Oxygen Diss,"Oxygen, Dissolved as O2",10.7,mg/l
 Morocco,Fes,2013,Nitrate-N,Nitrate as N,18.9,mg/l
 Morocco,Fes,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",109.2,%
-Morocco,Kénitra,2020,Nitrite-N,Nitrite as N,0.094,mg/l
+Morocco,K?itra,2020,Nitrite-N,Nitrite as N,0.094,mg/l
 Morocco,Khouribga,2016,Cond @ 25C,Conductivity at 25 C,1122,us/cm
 Morocco,Marrakech,2012,Ammonia(N),Ammoniacal Nitrogen as N,0.091,mg/l
 Morocco,Marrakech,2016,Temp Water,Temperature of Water,15.9,cel
@@ -25867,8 +25867,8 @@ Norway,Birkeland,2017,Nitrate-N,Nitrate as N,19,mg/l
 Norway,Birkeland,2018,Oxygen Diss,"Oxygen, Dissolved as O2",12.8,mg/l
 Norway,Birkeland,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Norway,Birkenes Municipality,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.069,mg/l
-Norway,Bodø,pH,pH,8.24,phunits,
-Norway,Bodø,N Oxidised,"Nitrogen, Total Oxidised as N",17,mg/l,
+Norway,Bod?pH,pH,8.24,phunits,,
+Norway,Bod?N Oxidised,"Nitrogen, Total Oxidised as N",17,mg/l,,
 Norway,Brevik,2017,Nitrate-N,Nitrate as N,16.9,mg/l
 Norway,Brevik,2018,Nitrite-N,Nitrite as N,0.062,mg/l
 Norway,Brevik,2019,NH3 un-ion,Ammonia un-ionised as N,0.0007,mg/l
@@ -25947,8 +25947,8 @@ Norway,Loddefjord,2016,Nitrite-N,Nitrite as N,0.12,mg/l
 Norway,Loddefjord,2017,Temp Water,Temperature of Water,15.7,cel
 Norway,Loddefjord,2018,Orthophospht,"Orthophosphate, reactive as P",0.7,mg/l
 Norway,Loddefjord,2019,NH3 un-ion,Ammonia un-ionised as N,0.00172,mg/l
-Norway,Lørenskog,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,220,mg/l
-Norway,Lørenskog,2019,pH,pH,7.71,phunits
+Norway,L?enskog,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,220,mg/l
+Norway,L?enskog,2019,pH,pH,7.71,phunits
 Norway,Mo I Rana,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",76.4,%
 Norway,Mo I Rana,2013,Oxygen Diss,"Oxygen, Dissolved as O2",7.57,mg/l
 Norway,Mo I Rana,2014,Cond @ 25C,Conductivity at 25 C,936,us/cm
@@ -25981,8 +25981,8 @@ Norway,Porsgrunn,2016,N Oxidised,"Nitrogen, Total Oxidised as N",21,mg/l
 Norway,Porsgrunn,2017,Nitrate-N,Nitrate as N,21,mg/l
 Norway,Porsgrunn,2018,Nitrite-N,Nitrite as N,0.022,mg/l
 Norway,Porsgrunn,2019,NH3 un-ion,Ammonia un-ionised as N,0.00032,mg/l
-Norway,Rådal,2018,Oxygen Diss,"Oxygen, Dissolved as O2",12.7,mg/l
-Norway,Rådal,2019,Temp Water,Temperature of Water,2.5,cel
+Norway,R?al,2018,Oxygen Diss,"Oxygen, Dissolved as O2",12.7,mg/l
+Norway,R?al,2019,Temp Water,Temperature of Water,2.5,cel
 Norway,Rud,2013,Orthophospht,"Orthophosphate, reactive as P",0.085,mg/l
 Norway,Rud,2014,Cond @ 25C,Conductivity at 25 C,798,us/cm
 Norway,Rud,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,170,mg/l
@@ -26020,8 +26020,8 @@ Norway,Todalen,2016,BOD ATU,BOD : 5 Day ATU,4.53,mg/l
 Norway,Todalen,2017,Phosphorus-P,"Phosphorus, Total as P",0.5,mg/l
 Norway,Todalen,2018,COD as O2,Chemical Oxygen Demand :- {COD},30.2,mg/l
 Norway,Todalen,2019,Phosphorus-P,"Phosphorus, Total as P",0.45,mg/l
-Norway,Tønsberg,2018,COD as O2,Chemical Oxygen Demand :- {COD},32.8,mg/l
-Norway,Tønsberg,2019,BOD ATU,BOD : 5 Day ATU,4.08,mg/l
+Norway,T?sberg,2018,COD as O2,Chemical Oxygen Demand :- {COD},32.8,mg/l
+Norway,T?sberg,2019,BOD ATU,BOD : 5 Day ATU,4.08,mg/l
 Norway,Tromso,2010,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Norway,Tromso,2013,Sld Sus@105C,"Solids, Suspended at 105 C",7,mg/l
 Norway,Tromso,2014,BOD ATU,BOD : 5 Day ATU,1.3,mg/l
@@ -27380,9 +27380,9 @@ Poland,Rybnik,2016,Sld Sus@105C,"Solids, Suspended at 105 C",5,mg/l
 Poland,Rybnik,2017,Iron - as Fe,Iron,480,ug/l
 Poland,Rybnik,2018,Cl2 Free,Chlorine Free as Cl2,0.05,mg/l
 Poland,Rybnik,2019,Iron - as Fe,Iron,1000,ug/l
-Poland,Rymanow-Zdrój,2017,pH,pH,7.7,phunits
-Poland,Rymanow-Zdrój,2018,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
-Poland,Rymanow-Zdrój,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",99.2,%
+Poland,Rymanow-Zdr?,2017,pH,pH,7.7,phunits
+Poland,Rymanow-Zdr?,2018,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
+Poland,Rymanow-Zdr?,2019,O Diss %sat,"Oxygen, Dissolved, % Saturation",99.2,%
 Poland,Rzeszow,2010,N Oxidised,"Nitrogen, Total Oxidised as N",6.6,mg/l
 Poland,Rzeszow,2013,Nitrate-N,Nitrate as N,6.58,mg/l
 Poland,Rzeszow,2014,Nitrite-N,Nitrite as N,0.023,mg/l
@@ -28170,7 +28170,7 @@ Portugal,Setubal,2016,Cond @ 25C,Conductivity at 25 C,856,us/cm
 Portugal,Setubal,2017,NH3 un-ion,Ammonia un-ionised as N,0.00064,mg/l
 Portugal,Setubal,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Portugal,Setubal,2019,Oxygen Diss,"Oxygen, Dissolved as O2",10.4,mg/l
-Portugal,"Setubal, Setöbal",2010,pH,pH,8.31,phunits
+Portugal,"Setubal, Set?al",2010,pH,pH,8.31,phunits
 Portugal,Sines,2010,Nitrate-N,Nitrate as N,6.19,mg/l
 Portugal,Sines,2013,Sld Sus@105C,"Solids, Suspended at 105 C",3,mg/l
 Portugal,Sines,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,4.3,ug/l
@@ -28541,9 +28541,9 @@ Romania,Ploiesti,2019,Pb Filtered,"Lead, Dissolved",0.1,ug/l
 Romania,Poiana Stampei,2010,CHLOROPHYLL,Chlorophyll : Acetone Extract,1.8,ug/l
 Romania,Poiana Stampei,2017,Phosphorus-P,"Phosphorus, Total as P",0.047,mg/l
 Romania,Poiana Stampei,2018,pH,pH,7.89,phunits
-Romania,Râmnicu Sarat,2017,Cond @ 25C,Conductivity at 25 C,815,us/cm
-Romania,Râmnicu Sarat,2018,Temp Water,Temperature of Water,2.8,cel
-Romania,Râmnicu Sarat,2019,OrthophsFilt,"Orthophosphate, Filtered as P",0.0019,mg/l
+Romania,R?nicu Sarat,2017,Cond @ 25C,Conductivity at 25 C,815,us/cm
+Romania,R?nicu Sarat,2018,Temp Water,Temperature of Water,2.8,cel
+Romania,R?nicu Sarat,2019,OrthophsFilt,"Orthophosphate, Filtered as P",0.0019,mg/l
 Romania,Ramnicu Valcea,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",82,%
 Romania,Ramnicu Valcea,2013,Oxygen Diss,"Oxygen, Dissolved as O2",11.1,mg/l
 Romania,Ramnicu Valcea,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,1.4,ug/l
@@ -28642,11 +28642,11 @@ Romania,Targu Jiu,2017,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N",2.4
 Romania,Targu Jiu,2018,SiO2 Rv,"Silica, reactive as SiO2",2.6,mg/l
 Romania,Targu Jiu,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,210,mg/l
 Romania,Targu Mures,2010,Sld Sus@105C,"Solids, Suspended at 105 C",14,mg/l
-Romania,Târgu Mure?,2017,NH3 filt N,"Ammoniacal Nitrogen, Filtered as N",0.03,mg/l
-Romania,Târgu Mure?,2018,Chloride Ion,Chloride,58,mg/l
-Romania,Târgu Mure?,2019,Nitrogen - N,"Nitrogen, Total as N",3.1,mg/l
-Romania,Târnaveni,2018,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N",0.86,mg/l
-Romania,Târnaveni,2019,CHLOROPHYLL,Chlorophyll : Acetone Extract,25,ug/l
+Romania,T?gu Mure?,2017,NH3 filt N,"Ammoniacal Nitrogen, Filtered as N",0.03,mg/l
+Romania,T?gu Mure?,2018,Chloride Ion,Chloride,58,mg/l
+Romania,T?gu Mure?,2019,Nitrogen - N,"Nitrogen, Total as N",3.1,mg/l
+Romania,T?naveni,2018,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N",0.86,mg/l
+Romania,T?naveni,2019,CHLOROPHYLL,Chlorophyll : Acetone Extract,25,ug/l
 Romania,Tasca,2015,OrthophsFilt,"Orthophosphate, Filtered as P",0.0035,mg/l
 Romania,Tasca,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,220,mg/l
 Romania,Tasca,2018,Phosphorus-P,"Phosphorus, Total as P",0.078,mg/l
@@ -28891,9 +28891,9 @@ Slovakia,Kamenec Pod Vtacnikom,2016,NH3 filt N,"Ammoniacal Nitrogen, Filtered as
 Slovakia,Kamenec Pod Vtacnikom,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",106.7,%
 Slovakia,Kamenec Pod Vtacnikom,2018,Phosphorus-P,"Phosphorus, Total as P",0.055,mg/l
 Slovakia,Kamenec Pod Vtacnikom,2019,Chloride Ion,Chloride,88,mg/l
-Slovakia,Kojšov,2017,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N",3.8,mg/l
-Slovakia,Kojšov,2018,Oxygen Diss,"Oxygen, Dissolved as O2",12.5,mg/l
-Slovakia,Kojšov,2019,CHLOROPHYLL,Chlorophyll : Acetone Extract,27,ug/l
+Slovakia,Koj?v,2017,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N",3.8,mg/l
+Slovakia,Koj?v,2018,Oxygen Diss,"Oxygen, Dissolved as O2",12.5,mg/l
+Slovakia,Koj?v,2019,CHLOROPHYLL,Chlorophyll : Acetone Extract,27,ug/l
 Slovakia,Kosice,2010,Transparency,Transparency,0.5,m
 Slovakia,Kosice,2014,OrthophsFilt,"Orthophosphate, Filtered as P",0.0036,mg/l
 Slovakia,Kosice,2015,SiO2 Filt,"Silicate, Filtered as SiO2",6.9,mg/l
@@ -29127,16 +29127,16 @@ Sweden,Akarp,2014,Nitrate-N,Nitrate as N,4.28,mg/l
 Sweden,Akarp,2016,2Phenoxyprop,2-Phenoxypropionic acid :- {PPA},0.005,ug/l
 Sweden,Akarp,2017,Cypermeth ID,Cypermethrin Identification,1,text
 Sweden,Akarp,2018,Na- Filtered,"Sodium, Dissolved",28,mg/l
-Sweden,Älgarås,2013,nPropylbenzn,n-Propylbenzene :- {1-Phenylpropane},0.1,ug/l
-Sweden,Älgarås,2014,o-Xylene,"1,2-Dimethylbenzene :- {o-Xylene}",0.1,ug/l
-Sweden,Älgarås,2015,PYRENE,Pyrene,0.01,ug/l
-Sweden,Älgarås,2016,p-Cresol,4-Methylphenol :- {p-Cresol},0.02,ug/l
-Sweden,Älgarås,2017,Dichlorvos,Dichlorvos,0.00004,ug/l
-Sweden,Älgarås,2018,Simazine,Simazine,0.0011,ug/l
-Sweden,Älgarås,2019,22DCPropan,"2,2-Dichloropropane",0.1,ug/l
-Sweden,Älmhult,2010,Iron - as Fe,Iron,160,ug/l
-Sweden,Älmhult,2016,Neburon,Neburon,0.01,ug/l
-Sweden,Älmhult,2017,DiClBenzPhWW,Dichlorobenzophenone,0.0001,ug/l
+Sweden,?gar?,2013,nPropylbenzn,n-Propylbenzene :- {1-Phenylpropane},0.1,ug/l
+Sweden,?gar?,2014,o-Xylene,"1,2-Dimethylbenzene :- {o-Xylene}",0.1,ug/l
+Sweden,?gar?,2015,PYRENE,Pyrene,0.01,ug/l
+Sweden,?gar?,2016,p-Cresol,4-Methylphenol :- {p-Cresol},0.02,ug/l
+Sweden,?gar?,2017,Dichlorvos,Dichlorvos,0.00004,ug/l
+Sweden,?gar?,2018,Simazine,Simazine,0.0011,ug/l
+Sweden,?gar?,2019,22DCPropan,"2,2-Dichloropropane",0.1,ug/l
+Sweden,?mhult,2010,Iron - as Fe,Iron,160,ug/l
+Sweden,?mhult,2016,Neburon,Neburon,0.01,ug/l
+Sweden,?mhult,2017,DiClBenzPhWW,Dichlorobenzophenone,0.0001,ug/l
 Sweden,Alvesta,2018,Bromoxynil,Bromoxynil,0.005,ug/l
 Sweden,Arlov,2014,"1,3 -DICHLOR","cis-1,3-Dichloropropylene :- {cis-1,3-Dichloropropene}",0.1,ug/l
 Sweden,Arlov,2015,Bromoform,Bromoform :- {Tribromomethane},0.1,ug/l
@@ -29144,8 +29144,8 @@ Sweden,Arlov,2016,DiClMe,Dichloromethane :- {Methylene Dichloride},0.5,ug/l
 Sweden,Arlov,2017,TertButylbnz,"tert-Butylbenzene :- {(1,1-Dimethylethyl)benzene}",0.1,ug/l
 Sweden,Arlov,2018,Permethrn-Tr,trans-Permethrin,0.0001,ug/l
 Sweden,Arlov,2019,As-Filtered,"Arsenic, Dissolved",1,ug/l
-Sweden,Arlöv,2010,Pendimethaln,Pendimethalin,0.0005,ug/l
-Sweden,Arlöv,2019,Methiocarb,Methiocarb,0.001,ug/l
+Sweden,Arl?,2010,Pendimethaln,Pendimethalin,0.0005,ug/l
+Sweden,Arl?,2019,Methiocarb,Methiocarb,0.001,ug/l
 Sweden,Arvika,2016,TriBT Cation,Tributyl Tin as Cation,0.00033,ug/l
 Sweden,Arvika,2017,HCH Delta,HCH -delta,0.0001,ug/l
 Sweden,Arvika,2018,Mn- Filtered,"Manganese, Dissolved",19,ug/l
@@ -29178,7 +29178,7 @@ Sweden,Burgsvik,2019,PhenoxytcAcd,Phenoxyacetic acid :- {PAA},0.038,ug/l
 Sweden,Charlottenberg,2017,TDE (PP),TDE -pp,0.0001,ug/l
 Sweden,Djursholm,2015,Cadmium - Cd,Cadmium,0.01,ug/l
 Sweden,Eskilstuna,2018,MetsulfrnMyl,Metsulfuron-methyl,0.01,ug/l
-Sweden,Falköping,2016,TetClEthene,Tetrachloroethylene :- {Perchloroethylene},0.1,ug/l
+Sweden,Falk?ing,2016,TetClEthene,Tetrachloroethylene :- {Perchloroethylene},0.1,ug/l
 Sweden,Falun,2013,Zn BLM Bio,Zinc : BLM Bioavailable,0.8,ug/l
 Sweden,Falun,2014,Permethrn-cs,cis-Permethrin,0.0001,ug/l
 Sweden,Falun,2015,135TriMeBenz,"1,3,5-Trimethylbenzene :- {Mesitylene}",0.1,ug/l
@@ -29192,8 +29192,8 @@ Sweden,Gavle,2016,Pb BLM Bio,Lead : BLM Bioavailable,0.01,ug/l
 Sweden,Gavle,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
 Sweden,Gavle,2018,Carbetamide,Carbetamide,0.01,ug/l
 Sweden,Gavle,2019,DDT (PP),DDT -pp,0.0001,ug/l
-Sweden,Gävle,2017,Ethiofencarb,Ethiofencarb,0.005,ug/l
-Sweden,Göteborg,2010,p-C-o-Cresol,4-Chloro-2-methylphenol :- {p-Chloro-o-cresol},0.02,ug/l
+Sweden,G?le,2017,Ethiofencarb,Ethiofencarb,0.005,ug/l
+Sweden,G?eborg,2010,p-C-o-Cresol,4-Chloro-2-methylphenol :- {p-Chloro-o-cresol},0.02,ug/l
 Sweden,Gothenburg,2013,Triclopyr,Triclopyr,0.005,ug/l
 Sweden,Gothenburg,2014,Magnesium-Mg,Magnesium,7.6,mg/l
 Sweden,Gothenburg,2015,Propoxur,Propoxur,0.005,ug/l
@@ -29233,7 +29233,7 @@ Sweden,Jonkoping,2016,HBCDD,"Hexabromocyclododecane Total: (Sum of a, b, g)",0.0
 Sweden,Jonkoping,2017,"1,2 -DIBROMO","1,2-Dibromo-3-chloropropane",0.1,ug/l
 Sweden,Jonkoping,2018,"2,6-DCP","2,6-Dichlorophenol",0.02,ug/l
 Sweden,Jonkoping,2019,3Chlorotolun,3-Chlorotoluene :- {3-Chloromethylbenzene},0.1,ug/l
-Sweden,Jönköping,2010,Diuron,Diuron,0.01,ug/l
+Sweden,J?k?ing,2010,Diuron,Diuron,0.01,ug/l
 Sweden,Karlshamn,2017,Asulam,Asulam,0.02,ug/l
 Sweden,Karlshamn,2019,Bromobenzene,Bromobenzene,0.1,ug/l
 Sweden,Karlskrona,2018,pH,pH,8.46,phunits
@@ -29267,9 +29267,9 @@ Sweden,Landskrona,2016,HCH Alpha,HCH -alpha,0.0001,ug/l
 Sweden,Landskrona,2017,Dieldrin,Dieldrin,0.0001,ug/l
 Sweden,Landskrona,2018,112TCEthan,"1,1,2-Trichloroethane",0.1,ug/l
 Sweden,Landskrona,2019,Trichloroeth,Trichloroethylene :- {Trichloroethene},0.1,ug/l
-Sweden,Lidingö,B - Filtered,"Boron, Dissolved",100,ug/l,
-Sweden,Lidingö,Alachlor,Alachlor,0.0001,ug/l,
-Sweden,Lidingö,m-Cresol,3-Methylphenol :- {m-Cresol},0.02,ug/l,
+Sweden,Liding?B - Filtered,"Boron, Dissolved",100,ug/l,,
+Sweden,Liding?Alachlor,Alachlor,0.0001,ug/l,,
+Sweden,Liding?m-Cresol,3-Methylphenol :- {m-Cresol},0.02,ug/l,,
 Sweden,Linkoping,2013,4-CAA,4-Chlorophenoxyacetic acid,0.005,ug/l
 Sweden,Linkoping,2014,B-[ghi]-pery,"Benzo(g,h,i)Perylene",0.00049,ug/l
 Sweden,Linkoping,2015,Acrb-slphx,Aldicarb sulfoxide,0.005,ug/l
@@ -29277,7 +29277,7 @@ Sweden,Linkoping,2016,Benzene,Benzene,0.1,ug/l
 Sweden,Linkoping,2017,Cu BLM Bio,Copper : BLM Bioavailable,0.15,ug/l
 Sweden,Linkoping,2018,Methabnzthzn,Methabenzthiazuron,0.01,ug/l
 Sweden,Linkoping,2019,NH3 filt N,"Ammoniacal Nitrogen, Filtered as N",0.0084,mg/l
-Sweden,Linköping,2015,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
+Sweden,Link?ing,2015,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
 Sweden,Ljungby,2014,Carbaryl,Carbaryl,0.01,ug/l
 Sweden,Ljungby,2015,1122TetClEth,"1,1,2,2-Tetrachloroethane",0.1,ug/l
 Sweden,Ljungby,2016,Isodrin,Isodrin,0.0001,ug/l
@@ -29309,30 +29309,30 @@ Sweden,Malmo,2016,pH,pH,8.56,phunits
 Sweden,Malmo,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",121.1,%
 Sweden,Malmo,2018,Phosphorus-P,"Phosphorus, Total as P",0.18,mg/l
 Sweden,Malmo,2019,Oxygen Diss,"Oxygen, Dissolved as O2",16.5,mg/l
-Sweden,Malmö,pH,pH,8.78,phunits,
-Sweden,Malmö,CHLOROPHYLL,Chlorophyll : Acetone Extract,120,ug/l,
-Sweden,Malmö,Phosphorus-P,"Phosphorus, Total as P",0.12,mg/l,
-Sweden,Malmö,Transparency,Transparency,0.7,m,
-Sweden,Malmö,Oxygen Diss,"Oxygen, Dissolved as O2",13.3,mg/l,
-Sweden,Malmö,Cond @ 25C,Conductivity at 25 C,1093,us/cm,
-Sweden,Malmö,Temp Water,Temperature of Water,8.6,cel,
-Sweden,Malmö,O Diss %sat,"Oxygen, Dissolved, % Saturation",114.1,%,
+Sweden,Malm?pH,pH,8.78,phunits,,
+Sweden,Malm?CHLOROPHYLL,Chlorophyll : Acetone Extract,120,ug/l,,
+Sweden,Malm?Phosphorus-P,"Phosphorus, Total as P",0.12,mg/l,,
+Sweden,Malm?Transparency,Transparency,0.7,m,,
+Sweden,Malm?Oxygen Diss,"Oxygen, Dissolved as O2",13.3,mg/l,,
+Sweden,Malm?Cond @ 25C,Conductivity at 25 C,1093,us/cm,,
+Sweden,Malm?Temp Water,Temperature of Water,8.6,cel,,
+Sweden,Malm?O Diss %sat,"Oxygen, Dissolved, % Saturation",114.1,%,,
 Sweden,Mariestad,2016,OrthophsFilt,"Orthophosphate, Filtered as P",0.014,mg/l
 Sweden,Mariestad,2017,Temp Water,Temperature of Water,8.4,cel
 Sweden,Mariestad,2018,Cond @ 25C,Conductivity at 25 C,1014,us/cm
 Sweden,Mariestad,2019,Oxygen Diss,"Oxygen, Dissolved as O2",13.5,mg/l
 Sweden,Markaryd,2017,OrthophsFilt,"Orthophosphate, Filtered as P",0.0094,mg/l
-Sweden,Mölndal,2013,pH,pH,8.57,phunits
-Sweden,Mölndal,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,110,ug/l
-Sweden,Mölndal,2015,Transparency,Transparency,0.4,m
-Sweden,Mölndal,2016,Phosphorus-P,"Phosphorus, Total as P",0.14,mg/l
-Sweden,Mölndal,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",114.9,%
-Sweden,Mölndal,2018,Oxygen Diss,"Oxygen, Dissolved as O2",15.5,mg/l
-Sweden,Mölndal,2019,pH,pH,9.03,phunits
+Sweden,M?ndal,2013,pH,pH,8.57,phunits
+Sweden,M?ndal,2014,CHLOROPHYLL,Chlorophyll : Acetone Extract,110,ug/l
+Sweden,M?ndal,2015,Transparency,Transparency,0.4,m
+Sweden,M?ndal,2016,Phosphorus-P,"Phosphorus, Total as P",0.14,mg/l
+Sweden,M?ndal,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",114.9,%
+Sweden,M?ndal,2018,Oxygen Diss,"Oxygen, Dissolved as O2",15.5,mg/l
+Sweden,M?ndal,2019,pH,pH,9.03,phunits
 Sweden,Mora,2017,CHLOROPHYLL,Chlorophyll : Acetone Extract,140,ug/l
 Sweden,Motala,2014,OrthophsFilt,"Orthophosphate, Filtered as P",0.0047,mg/l
 Sweden,Motala,2016,Phosphorus-P,"Phosphorus, Total as P",0.17,mg/l
-Sweden,Norrk¶Ping,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",144.1,%
+Sweden,Norrk?ing,2010,O Diss %sat,"Oxygen, Dissolved, % Saturation",144.1,%
 Sweden,Norrkoping,2013,Temp Water,Temperature of Water,12.1,cel
 Sweden,Norrkoping,2014,Cond @ 25C,Conductivity at 25 C,817,us/cm
 Sweden,Norrkoping,2015,Transparency,Transparency,0.1,m
@@ -29347,10 +29347,10 @@ Sweden,Norsborg,2016,Oxygen Diss,"Oxygen, Dissolved as O2",11.1,mg/l
 Sweden,Norsborg,2017,Cond @ 25C,Conductivity at 25 C,818,us/cm
 Sweden,Norsborg,2018,OrthophsFilt,"Orthophosphate, Filtered as P",0.0064,mg/l
 Sweden,Norsborg,2019,Cond @ 25C,Conductivity at 25 C,874,us/cm
-Sweden,Olofström,2015,pH,pH,8.52,phunits
-Sweden,Olofström,2016,Phosphorus-P,"Phosphorus, Total as P",0.15,mg/l
-Sweden,Olofström,2017,Oxygen Diss,"Oxygen, Dissolved as O2",12.3,mg/l
-Sweden,Olofström,2018,CHLOROPHYLL,Chlorophyll : Acetone Extract,120,ug/l
+Sweden,Olofstr?,2015,pH,pH,8.52,phunits
+Sweden,Olofstr?,2016,Phosphorus-P,"Phosphorus, Total as P",0.15,mg/l
+Sweden,Olofstr?,2017,Oxygen Diss,"Oxygen, Dissolved as O2",12.3,mg/l
+Sweden,Olofstr?,2018,CHLOROPHYLL,Chlorophyll : Acetone Extract,120,ug/l
 Sweden,Onsala,2010,Temp Water,Temperature of Water,19.4,cel
 Sweden,Onsala,2013,O Diss %sat,"Oxygen, Dissolved, % Saturation",133.9,%
 Sweden,Onsala,2014,Transparency,Transparency,0.4,m
@@ -29365,7 +29365,7 @@ Sweden,Orebro,2016,Sld Sus@105C,"Solids, Suspended at 105 C",8,mg/l
 Sweden,Orebro,2017,Temp Water,Temperature of Water,10.8,cel
 Sweden,Orebro,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.546,mg/l
 Sweden,Orebro,2019,Sld Sus@105C,"Solids, Suspended at 105 C",7,mg/l
-Sweden,Örebro,2010,BOD ATU,BOD : 5 Day ATU,2.8,mg/l
+Sweden,?ebro,2010,BOD ATU,BOD : 5 Day ATU,2.8,mg/l
 Sweden,Ornskoldsvik,2013,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Sweden,Ornskoldsvik,2014,Sld Sus@105C,"Solids, Suspended at 105 C",42,mg/l
 Sweden,Ornskoldsvik,2015,BOD ATU,BOD : 5 Day ATU,2.89,mg/l
@@ -29373,7 +29373,7 @@ Sweden,Ornskoldsvik,2016,Temp Water,Temperature of Water,11.7,cel
 Sweden,Ornskoldsvik,2017,Temp Water,Temperature of Water,14.8,cel
 Sweden,Ornskoldsvik,2018,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Sweden,Ornskoldsvik,2019,Sld Sus@105C,"Solids, Suspended at 105 C",10,mg/l
-Sweden,Piteå,BOD ATU,BOD : 5 Day ATU,2.35,mg/l,
+Sweden,Pite?BOD ATU,BOD : 5 Day ATU,2.35,mg/l,,
 Sweden,Riddarhyttan,2013,COD as O2,Chemical Oxygen Demand :- {COD},51.1,mg/l
 Sweden,Riddarhyttan,2014,BOD ATU,BOD : 5 Day ATU,6.3,mg/l
 Sweden,Riddarhyttan,2015,Sld Sus@105C,"Solids, Suspended at 105 C",11,mg/l
@@ -29381,15 +29381,15 @@ Sweden,Riddarhyttan,2016,BOD ATU,BOD : 5 Day ATU,4.4,mg/l
 Sweden,Riddarhyttan,2017,Temp Water,Temperature of Water,9.2,cel
 Sweden,Riddarhyttan,2018,Sld Sus@105C,"Solids, Suspended at 105 C",12,mg/l
 Sweden,Riddarhyttan,2019,BOD ATU,BOD : 5 Day ATU,5.23,mg/l
-Sweden,Rödeby,2015,Temp Water,Temperature of Water,10.8,cel
-Sweden,Rödeby,2016,Sld Sus@105C,"Solids, Suspended at 105 C",8,mg/l
-Sweden,Rödeby,2019,BOD ATU,BOD : 5 Day ATU,4.16,mg/l
+Sweden,R?eby,2015,Temp Water,Temperature of Water,10.8,cel
+Sweden,R?eby,2016,Sld Sus@105C,"Solids, Suspended at 105 C",8,mg/l
+Sweden,R?eby,2019,BOD ATU,BOD : 5 Day ATU,4.16,mg/l
 Sweden,Ronneby,2017,Temp Water,Temperature of Water,8.9,cel
 Sweden,Ronneby,2018,Sld Sus@105C,"Solids, Suspended at 105 C",9,mg/l
-Sweden,Säffle,2016,BOD ATU,BOD : 5 Day ATU,4.74,mg/l
-Sweden,Säffle,2017,Temp Water,Temperature of Water,12.4,cel
-Sweden,Säffle,2018,Sld Sus@105C,"Solids, Suspended at 105 C",11,mg/l
-Sweden,Säffle,2019,BOD ATU,BOD : 5 Day ATU,4.06,mg/l
+Sweden,S?fle,2016,BOD ATU,BOD : 5 Day ATU,4.74,mg/l
+Sweden,S?fle,2017,Temp Water,Temperature of Water,12.4,cel
+Sweden,S?fle,2018,Sld Sus@105C,"Solids, Suspended at 105 C",11,mg/l
+Sweden,S?fle,2019,BOD ATU,BOD : 5 Day ATU,4.06,mg/l
 Sweden,Skelleftea,2013,Temp Water,Temperature of Water,16.4,cel
 Sweden,Skelleftea,2014,COD as O2,Chemical Oxygen Demand :- {COD},825,mg/l
 Sweden,Skelleftea,2016,BOD ATU,BOD : 5 Day ATU,300.67,mg/l
@@ -29404,7 +29404,7 @@ Sweden,Sodertalje,2016,Flow l/s,"Flow, instantaneous",13.2,l/s
 Sweden,Sodertalje,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Sweden,Sodertalje,2018,Temp Water,Temperature of Water,7.8,cel
 Sweden,Sodertalje,2019,BOD ATU,BOD : 5 Day ATU,7.69,mg/l
-Sweden,Södertälje,2010,COD as O2,Chemical Oxygen Demand :- {COD},47,mg/l
+Sweden,S?ert?je,2010,COD as O2,Chemical Oxygen Demand :- {COD},47,mg/l
 Sweden,Sollentuna,2010,Flow l/s,"Flow, instantaneous",6.01,l/s
 Sweden,Sollentuna,2013,Temp Water,Temperature of Water,8.7,cel
 Sweden,Sollentuna,2014,Sld Sus@105C,"Solids, Suspended at 105 C",12,mg/l
@@ -29414,10 +29414,10 @@ Sweden,Sollentuna,2017,Sld Sus@105C,"Solids, Suspended at 105 C",19,mg/l
 Sweden,Sollentuna,2018,Flow l/s,"Flow, instantaneous",17.7,l/s
 Sweden,Sollentuna,2019,BOD ATU,BOD : 5 Day ATU,3.18,mg/l
 Sweden,Solna,2019,Temp Water,Temperature of Water,11.2,cel
-Sweden,Sölvesborg,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.745,mg/l
-Sweden,Sölvesborg,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.703,mg/l
-Sweden,Sölvesborg,2018,Sld Sus@105C,"Solids, Suspended at 105 C",17,mg/l
-Sweden,Sölvesborg,2019,BOD ATU,BOD : 5 Day ATU,5.75,mg/l
+Sweden,S?vesborg,2015,Ammonia(N),Ammoniacal Nitrogen as N,0.745,mg/l
+Sweden,S?vesborg,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.703,mg/l
+Sweden,S?vesborg,2018,Sld Sus@105C,"Solids, Suspended at 105 C",17,mg/l
+Sweden,S?vesborg,2019,BOD ATU,BOD : 5 Day ATU,5.75,mg/l
 Sweden,Staffanstorp,2014,Flow l/s,"Flow, instantaneous",10.7,l/s
 Sweden,Staffanstorp,2015,Temp Water,Temperature of Water,13.9,cel
 Sweden,Staffanstorp,2016,COD as O2,Chemical Oxygen Demand :- {COD},51.4,mg/l
@@ -29471,13 +29471,13 @@ Sweden,Uppsala,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Sweden,Uppsala,2017,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,210,mg/l
 Sweden,Uppsala,2018,Temp Water,Temperature of Water,7,cel
 Sweden,Uppsala,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
-Sweden,Västerås,2015,pH,pH,7.84,phunits
-Sweden,Västerås,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",98.4,%
-Sweden,Västerås,2018,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
-Sweden,Västerås,2019,Nitrate-N,Nitrate as N,13,mg/l
-Sweden,Västeres,2010,Nitrite-N,Nitrite as N,0.014,mg/l
-Sweden,Västervik,2015,NH3 un-ion,Ammonia un-ionised as N,0.00036,mg/l
-Sweden,Västervik,2017,Oxygen Diss,"Oxygen, Dissolved as O2",11.3,mg/l
+Sweden,V?ter?,2015,pH,pH,7.84,phunits
+Sweden,V?ter?,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",98.4,%
+Sweden,V?ter?,2018,N Oxidised,"Nitrogen, Total Oxidised as N",13,mg/l
+Sweden,V?ter?,2019,Nitrate-N,Nitrate as N,13,mg/l
+Sweden,V?teres,2010,Nitrite-N,Nitrite as N,0.014,mg/l
+Sweden,V?tervik,2015,NH3 un-ion,Ammonia un-ionised as N,0.00036,mg/l
+Sweden,V?tervik,2017,Oxygen Diss,"Oxygen, Dissolved as O2",11.3,mg/l
 Sweden,Vaxjo,2013,Temp Water,Temperature of Water,9.1,cel
 Sweden,Vaxjo,2014,Orthophospht,"Orthophosphate, reactive as P",0.023,mg/l
 Sweden,Vaxjo,2015,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,220,mg/l
@@ -29485,10 +29485,10 @@ Sweden,Vaxjo,2016,Cond @ 25C,Conductivity at 25 C,659,us/cm
 Sweden,Vaxjo,2017,Phosphorus-P,"Phosphorus, Total as P",0.86343,mg/l
 Sweden,Vaxjo,2018,Sld Sus@105C,"Solids, Suspended at 105 C",15,mg/l
 Sweden,Vaxjo,2019,BOD ATU,BOD : 5 Day ATU,5.3,mg/l
-Sweden,Växjö,Temp Water,Temperature of Water,7,cel,
-Sweden,Växjö,Ammonia(N),Ammoniacal Nitrogen as N,1.283,mg/l,
-Sweden,Växjö,Iron - as Fe,Iron,275.1,ug/l,
-Sweden,Växjö,Phosphorus-P,"Phosphorus, Total as P",0.88984,mg/l,
+Sweden,V?j?Temp Water,Temperature of Water,7,cel,,
+Sweden,V?j?Ammonia(N),Ammoniacal Nitrogen as N,1.283,mg/l,,
+Sweden,V?j?Iron - as Fe,Iron,275.1,ug/l,,
+Sweden,V?j?Phosphorus-P,"Phosphorus, Total as P",0.88984,mg/l,,
 Sweden,Visby,2010,Sld Sus@105C,"Solids, Suspended at 105 C",18,mg/l
 Sweden,Visby,2014,BOD ATU,BOD : 5 Day ATU,5.59,mg/l
 Sweden,Visby,2015,Iron - as Fe,Iron,553.1,ug/l
@@ -29783,9 +29783,9 @@ Turkey,Cankiri,2016,Temp Water,Temperature of Water,12.8,cel
 Turkey,Cankiri,2017,Ammonia(N),Ammoniacal Nitrogen as N,0.046,mg/l
 Turkey,Cankiri,2018,Oxygen Diss,"Oxygen, Dissolved as O2",11,mg/l
 Turkey,Cankiri,2019,pH,pH,8.07,phunits
-Turkey,Çayirova,2018,Orthophospht,"Orthophosphate, reactive as P",0.14,mg/l
-Turkey,Çayirova,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
-Turkey,Çaykara,2018,N Oxidised,"Nitrogen, Total Oxidised as N",6.7,mg/l
+Turkey,?yirova,2018,Orthophospht,"Orthophosphate, reactive as P",0.14,mg/l
+Turkey,?yirova,2019,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
+Turkey,?ykara,2018,N Oxidised,"Nitrogen, Total Oxidised as N",6.7,mg/l
 Turkey,Cerkezkoy,2015,Nitrite-N,Nitrite as N,0.034,mg/l
 Turkey,Cerkezkoy,2016,Temp Water,Temperature of Water,9.8,cel
 Turkey,Cerkezkoy,2017,O Diss %sat,"Oxygen, Dissolved, % Saturation",97.1,%
@@ -29796,19 +29796,19 @@ Turkey,Cigli,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.03,mg/l
 Turkey,Cigli,2017,pH,pH,7.99,phunits
 Turkey,Cigli,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",95.6,%
 Turkey,Cigli,2019,N Oxidised,"Nitrogen, Total Oxidised as N",7,mg/l
-Turkey,Çorlu,2018,Nitrate-N,Nitrate as N,6.97,mg/l
-Turkey,Çorlu,2019,BOD ATU,BOD : 5 Day ATU,1.2,mg/l
+Turkey,?rlu,2018,Nitrate-N,Nitrate as N,6.97,mg/l
+Turkey,?rlu,2019,BOD ATU,BOD : 5 Day ATU,1.2,mg/l
 Turkey,Corum,2010,Nitrite-N,Nitrite as N,0.035,mg/l
 Turkey,Corum,2015,NH3 un-ion,Ammonia un-ionised as N,0.00069,mg/l
 Turkey,Corum,2016,Oxygen Diss,"Oxygen, Dissolved as O2",9.94,mg/l
 Turkey,Corum,2017,Orthophospht,"Orthophosphate, reactive as P",0.46,mg/l
 Turkey,Corum,2018,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,230,mg/l
 Turkey,Corum,2019,Temp Water,Temperature of Water,13.5,cel
-Turkey,Çubuk,2015,Cond @ 25C,Conductivity at 25 C,950,us/cm
-Turkey,Çubuk,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",55.9,%
-Turkey,Çubuk,2017,BOD ATU,BOD : 5 Day ATU,3.9,mg/l
-Turkey,Çubuk,2018,NH3 un-ion,Ammonia un-ionised as N,0.00037,mg/l
-Turkey,Çubuk,2019,Cond @ 25C,Conductivity at 25 C,956,us/cm
+Turkey,?buk,2015,Cond @ 25C,Conductivity at 25 C,950,us/cm
+Turkey,?buk,2016,O Diss %sat,"Oxygen, Dissolved, % Saturation",55.9,%
+Turkey,?buk,2017,BOD ATU,BOD : 5 Day ATU,3.9,mg/l
+Turkey,?buk,2018,NH3 un-ion,Ammonia un-ionised as N,0.00037,mg/l
+Turkey,?buk,2019,Cond @ 25C,Conductivity at 25 C,956,us/cm
 Turkey,Cumhuriyet,2018,N Oxidised,"Nitrogen, Total Oxidised as N",4.4,mg/l
 Turkey,Cumhuriyet,2019,pH,pH,7.59,phunits
 Turkey,Cumhuriyet Mh.,2015,Oxygen Diss,"Oxygen, Dissolved as O2",5.37,mg/l
@@ -29874,7 +29874,7 @@ Turkey,Erzurum,2019,Orthophospht,"Orthophosphate, reactive as P",0.01,mg/l
 Turkey,Eskisehir,2010,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,200,mg/l
 Turkey,Eskisehir,2016,Temp Water,Temperature of Water,7.1,cel
 Turkey,Eskisehir,2017,Nitrite-N,Nitrite as N,0.041,mg/l
-Turkey,Evliya Çelebi,2019,N Oxidised,"Nitrogen, Total Oxidised as N",6.6,mg/l
+Turkey,Evliya ?lebi,2019,N Oxidised,"Nitrogen, Total Oxidised as N",6.6,mg/l
 Turkey,Fatih,2018,O Diss %sat,"Oxygen, Dissolved, % Saturation",108.6,%
 Turkey,Fatih,2019,Cond @ 25C,Conductivity at 25 C,689,us/cm
 Turkey,Fuatpasa,2019,Oxygen Diss,"Oxygen, Dissolved as O2",13.1,mg/l
@@ -29976,8 +29976,8 @@ Turkey,Kayseri,2016,COD as O2,Chemical Oxygen Demand :- {COD},537,mg/l
 Turkey,Kayseri,2017,BOD ATU,BOD : 5 Day ATU,213.43,mg/l
 Turkey,Kayseri,2018,COD as O2,Chemical Oxygen Demand :- {COD},802,mg/l
 Turkey,Kayseri,2019,COD as O2,Chemical Oxygen Demand :- {COD},880,mg/l
-Turkey,Keciören,2018,BOD ATU,BOD : 5 Day ATU,278.86,mg/l
-Turkey,Keciören,2019,Temp Water,Temperature of Water,7.4,cel
+Turkey,Keci?en,2018,BOD ATU,BOD : 5 Day ATU,278.86,mg/l
+Turkey,Keci?en,2019,Temp Water,Temperature of Water,7.4,cel
 Turkey,Kicikapi,2019,Sld Sus@105C,"Solids, Suspended at 105 C",12,mg/l
 Turkey,Kilis,2010,BOD ATU,BOD : 5 Day ATU,6.27,mg/l
 Turkey,Kilis,2015,Sld Sus@105C,"Solids, Suspended at 105 C",17,mg/l
@@ -30014,7 +30014,7 @@ Turkey,Konya,2016,Phosphorus-P,"Phosphorus, Total as P",0.63,mg/l
 Turkey,Konya,2017,BOD ATU,BOD : 5 Day ATU,6.95,mg/l
 Turkey,Konya,2018,COD as O2,Chemical Oxygen Demand :- {COD},36.6,mg/l
 Turkey,Konya,2019,BOD ATU,BOD : 5 Day ATU,4.53,mg/l
-Turkey,Kumköy,2019,Temp Water,Temperature of Water,14.7,cel
+Turkey,Kumk?,2019,Temp Water,Temperature of Water,14.7,cel
 Turkey,Kutahya,2010,Iron - as Fe,Iron,328.8,ug/l
 Turkey,Kutahya,2015,Chloride Ion,Chloride,132.3,mg/l
 Turkey,Kutahya,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
@@ -30094,8 +30094,8 @@ Turkey,Osmaniye,2016,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Turkey,Osmaniye,2017,Temp Water,Temperature of Water,8.6,cel
 Turkey,Osmaniye,2018,Temp Water,Temperature of Water,6.9,cel
 Turkey,Osmaniye,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
-Turkey,Palandöken,2018,Sld Sus@105C,"Solids, Suspended at 105 C",12,mg/l
-Turkey,Palandöken,2019,BOD ATU,BOD : 5 Day ATU,5.98,mg/l
+Turkey,Paland?en,2018,Sld Sus@105C,"Solids, Suspended at 105 C",12,mg/l
+Turkey,Paland?en,2019,BOD ATU,BOD : 5 Day ATU,5.98,mg/l
 Turkey,Pasinler,2018,Temp Water,Temperature of Water,7.9,cel
 Turkey,Pasinler,2019,Ammonia(N),Ammoniacal Nitrogen as N,0.105,mg/l
 Turkey,Rize,2010,Sld Sus@105C,"Solids, Suspended at 105 C",8,mg/l
@@ -30194,7 +30194,7 @@ Turkey,Usak,2010,Cond @ 25C,Conductivity at 25 C,902,us/cm
 Turkey,Usak,2015,Orthophospht,"Orthophosphate, reactive as P",0.3,mg/l
 Turkey,Usak,2016,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3,240,mg/l
 Turkey,Usak,2017,Temp Water,Temperature of Water,8,cel
-Turkey,Üskudar,2019,Cond @ 25C,Conductivity at 25 C,924,us/cm
+Turkey,?kudar,2019,Cond @ 25C,Conductivity at 25 C,924,us/cm
 Turkey,Van,2015,Nitrite-N,Nitrite as N,0.073,mg/l
 Turkey,Van,2016,Nitrate-N,Nitrate as N,10.9,mg/l
 Turkey,Van,2017,Oxygen Diss,"Oxygen, Dissolved as O2",8.35,mg/l

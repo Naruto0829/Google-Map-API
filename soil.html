@@ -28,8 +28,8 @@
         <script>
 
             let map, infoWindow;
-            let airPollutionMap = [];
-            let airPollutions = [];
+            let soilPollutionMap = [];
+            let soilPollutions = [];
 
             function initMap() {
 
@@ -54,18 +54,18 @@
                     .maps
                     .InfoWindow();
 
-                initAirPollution()
+                initSoilPollution()
 
             }
 
-            function initAirPollution() {
+            function initSoilPollution() {
 
                 const rangeSlider = $("#rangeSlider").val().split(";");
                 const fromYear    = rangeSlider[0];
                 const toYear      = rangeSlider[1];
                 
-                $.get('getAirPollutions', { fromYear, toYear }, (res) => {
-                    airPollutions = res;
+                $.get('getSoilPollutions', { fromYear, toYear }, (res) => {
+                    soilPollutions = res;
                     dispalyHeatMap(res)
                 });
             }
@@ -73,7 +73,7 @@
             function dispalyHeatMap(pollutions) {
                 
 
-                const pollutionType = $('input[type=radio][name=airPollution]:checked').val();
+                const pollutionType = $('input[type=radio][name=soilPollution]:checked').val();
 
                 for (const i in pollutions) {
                     
@@ -83,36 +83,36 @@
                             map,
                             strokeOpacity: 0,
                             strokeWeight: 2,
-                            fillColor: airPollutionColor(pollutions[i][pollutionType]),
+                            fillColor: soilPollutionColor(pollutions[i][pollutionType]),
                             fillOpacity: 0.35,
                             country: pollutions[i].country,
                             city: pollutions[i].city,
-                            pm25: pollutions[i]['pm25'],
-                            pm10: pollutions[i]['pm10'],
-                            no2:  pollutions[i]['no2'],
+                            ph: pollutions[i]['ph'],
+                            sulphates: pollutions[i]['sulphates'],
+                            chlorides:  pollutions[i]['chlorides'],
                             year: pollutions[i]['year'],
                             center: { lat, lng },
-                            radius: Math.sqrt(pollutions[i][pollutionType]) * 14000,
+                            radius: Math.sqrt(pollutions[i][pollutionType]) * 4000,
                         });
 
-                        airPollutionMap.push(circleMapObj);
+                        soilPollutionMap.push(circleMapObj);
                         showDialogue(circleMapObj, pollutionType)
                     });
                 }
             }
 
-            function airPollutionColor (val) {
+            function soilPollutionColor (val) {
                 if(5 > val) {
                     return "#00ff00"
-                } else if( 5 < val < 10 ) {
+                } else if( 10 < val &&  val < 20 ) {
                     return "yellow"
-                } else if( 10 < val < 15 ) {
+                } else  if( 30 < val &&  val < 40 ) {
                     return "orange"
-                } else if( 15 < val < 25 ) {
+                } else  if( 50 < val &&  val < 60 ) {
                     return "darkorange"
-                } else if( 25 < val < 35 ) {
+                } else if( 70 < val &&  val < 80 ) {
                     return "red"
-                } else if(  val > 35 ) {
+                } else if(  val > 100 ) {
                     return "darkred"
                 }
             }
@@ -120,7 +120,7 @@
 
             function showDialogue(circleMapObj, pollutionType) {
 
-                const pollutionTitle = $('input[type=radio][name=airPollution]:checked').attr("title");
+                const pollutionTitle = $('input[type=radio][name=soilPollution]:checked').attr("title");
                 
                 // Configure the click listener.
                 circleMapObj.addListener("click", (mapsMouseEvent) => {
@@ -144,23 +144,7 @@
                 });
             }
 
-            // function getLatlngByAddress(address, callback) {
-
-            //     var geocoder = new google.maps.Geocoder();
-                
-            //     geocoder.geocode( { 'address': address}, function(results, status) {
-            //         if (status == google.maps.GeocoderStatus.OK)
-            //         {
-            //             const latitude  = results[0].geometry.location.lat();
-            //             const longitude = results[0].geometry.location.lng();
-            //             callback(latitude, longitude);
-            //         }
-            //     });
-            // }
-
             function getLatlngByAddress(country, city, callback) {
-
-                // Make a request to Google Maps Geocoding API
                 fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(country + ', ' + city)}&key=AIzaSyBQPUN7-3Yfd1ghjDe-fTIPg7CxeirdlOA`)
                     .then(response => response.json())
                     .then(data => {
@@ -174,89 +158,30 @@
                         } else {
                             console.log('Error: Invalid address or geocoding API quota exceeded.');
                         }
-                    })
-                    .catch(error => {
+                    }).catch(error => {
                         console.error('Error:', error);
                     });
             }
 
-            function removeAirPollutionMap() {
-                for (let i = 0; i < airPollutionMap.length; i++) {
-                    airPollutionMap[i].setMap(null);
+            function removeSoilPollutionMap() {
+                for (let i = 0; i < soilPollutionMap.length; i++) {
+                    soilPollutionMap[i].setMap(null);
                 }
             }
 
             $(function() {
 
-                $(document).on('change', '.airPollutionButton',  (e) => {
-                    removeAirPollutionMap();
-                    dispalyHeatMap(airPollutions);
+                $(document).on('change', '.soilPollutionButton',  (e) => {
+                    removeSoilPollutionMap();
+                    dispalyHeatMap(soilPollutions);
                 })
 
                 $(document).on('change', '#rangeSlider',  (e) => {
-                    removeAirPollutionMap();
-                    dispalyHeatMap(airPollutions);
+                    removeSoilPollutionMap();
+                    dispalyHeatMap(soilPollutions);
                 })
 
             });
-
-            function getLocation(latlng, callback) {
-
-                new google
-                    .maps
-                    .Geocoder()
-                    .geocode({
-                        'latLng': latlng
-                    }, function (results, status) {
-
-                        if (status == google.maps.GeocoderStatus.OK) {
-                            
-
-                            if (results[1]) {
-                                var country = null,
-                                    countryCode = null,
-                                    city = null,
-                                    cityAlt = null;
-                                var c,
-                                    lc,
-                                    component;
-                                for (var r = 0, rl = results.length; r < rl; r += 1) {
-                                    var result = results[r];
-
-                                    if (!city && result.types[0] === 'locality') {
-                                        for (c = 0, lc = result.address_components.length; c < lc; c += 1) {
-                                            component = result.address_components[c];
-
-                                            if (component.types[0] === 'locality') {
-                                                city = component.long_name;
-                                                break;
-                                            }
-                                        }
-                                    } else if (!city && !cityAlt && result.types[0] === 'administrative_area_level_1') {
-                                        for (c = 0, lc = result.address_components.length; c < lc; c += 1) {
-                                            component = result.address_components[c];
-
-                                            if (component.types[0] === 'administrative_area_level_1') {
-                                                cityAlt = component.long_name;
-                                                break;
-                                            }
-                                        }
-                                    } else if (!country && result.types[0] === 'country') {
-                                        country = result.address_components[0].long_name;
-                                        countryCode = result.address_components[0].short_name;
-
-                                    } 
-                                    if (city && country) {
-                                        break;
-                                    }
-                                }
-
-                                callback({city, cityAlt, country, countryCode});
-
-                            }
-                        }
-                    });
-            }
 
             window.initMap = initMap;
 
@@ -338,7 +263,7 @@
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <div class="navbar-nav">
                     <a class="nav-item nav-link" href="/">Air Polltion</span></a>
-                    <a class="nav-item nav-link" href="/water">Water Polltion</a>
+                    <a class="nav-item nav-link " href="/water">Water Polltion</a>
                     <a class="nav-item nav-link" href="/noise">Noise Polltion</a>
                     <a class="nav-item nav-link active" href="/soil">Soil Polltion</a>
                   </div>
@@ -346,30 +271,29 @@
             </nav>
             <div class="info legend leaflet-control">
                 <i style="background:#00ff00;opacity:0.8"></i> &lt;10<br>
-                <i style="background:yellow;opacity:0.8"></i> 20-&lt;50<br>
-                <i style="background:orange;opacity:0.8"></i> 60-&lt;80<br>
-                <i style="background:darkorange;opacity:0.8"></i> 90-&lt;120<br>
-                <i style="background:red;opacity:0.8"></i> 120-&lt;135<br>
+                <i style="background:yellow;opacity:0.8"></i> 20-&lt;30<br>
+                <i style="background:orange;opacity:0.8"></i> 40-&lt;50<br>
+                <i style="background:darkorange;opacity:0.8"></i> 60-&lt;70<br>
+                <i style="background:red;opacity:0.8"></i> 80-&lt;100<br>
                 <i style="background:darkred;opacity:0.8"></i> &gt;150<br>
             </div>
             <form class="row g-3">
                 <div class="col-md-12">
-                    <input class="form-check-input airPollutionButton" type="radio" name="airPollution" title="PM2.5" value="pm25" checked>
-                    <label class="form-check-label" for="PM2.5">
-                        PM2.5 (Particulate matter of less than 2.5 µm diameter)
+                    <input class="form-check-input soilPollutionButton" type="radio" name="soilPollution" title="PH" value="ph" checked>
+                    <label class="form-check-label" for="PH">
+                        PH
                     </label>
                 </div>
                 <div class="col-md-12">
-                    <input class="form-check-input airPollutionButton" type="radio" name="airPollution" title="PM10" value="pm10">
-                    <label class="form-check-label" for="PM10">
-                        PM10 (Particulate matter of less than 10 µm diameter)
+                    <input class="form-check-input soilPollutionButton" type="radio" name="soilPollution" title="Sulphate" value="sulphates">
+                    <label class="form-check-label" for="Sulphate">
+                        Sulphates
                     </label>
                 </div>
                 <div class="col-md-12">
-                    <input class="form-check-input airPollutionButton" type="radio" name="airPollution" title="No2" value="no2">
-                    <label class="form-check-label" for="NO2">
-                        <span>NO<sub>2</sub>
-                            (Nitrogen dioxide)</span>
+                    <input class="form-check-input soilPollutionButton" type="radio" name="soilPollution" title="Chloride" value="chlorides">
+                    <label class="form-check-label" for="Chloride">
+                        Chlorides
                     </label>
                 </div>
                 <div class="col-md-12">

@@ -91,9 +91,10 @@ app.get("/getSoilPollutions", (req, res) => {
     const fromYear = req.query.fromYear;
     const toYear = req.query.toYear;
     
-    let sql = `SELECT latitude, longitude, volume, year
-                FROM "soil_pollution_tbl"
-                WHERE year BETWEEN ${fromYear} and ${toYear} GROUP BY longitude limit 1000`;
+    let sql = `SELECT country, city, year, AVG(ph) AS ph, AVG(sulphates) AS sulphates, AVG(chlorides) AS chlorides 
+                FROM "soil_pollution_tbl" 
+                WHERE year BETWEEN ${fromYear} and ${toYear} GROUP BY city limit 1000`;
+
 
     db.all(sql, [], (err, rows) => {
         if (err) {
