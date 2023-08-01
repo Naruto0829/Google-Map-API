@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hello Google Heat Map for Air, Water Pollution</title>
+
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+            crossorigin="anonymous">
+        <script
+            async
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQPUN7-3Yfd1ghjDe-fTIPg7CxeirdlOA&libraries=visualization&callback=initMap"></script>
+        <script
+            type="text/javascript"
+            src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/js/ion.rangeSlider.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+            crossorigin="anonymous"></script>
+        <script>
+
+            let map, infoWindow;
+            let noisePollutionMap = [];
+            let noisePollutions = [];
+
+            function initMap() {
+
+                const defaultlatLng = {
+                    lat: 51.5072,
+                    lng: 0.1276
+                };
+
+                map = new google
+                    .maps
+                    .Map(document.getElementById("map"), {
+                        streetViewControl: false,
+                        mapTypeControl: false,
+                        zoom: 7,
+                        // minZoom:  7,
+                        // maxZoom:  7,
+                        center: defaultlatLng
+                    });
+
+                // Create the initial InfoWindow.
+                infoWindow = new google
+                    .maps
+                    .InfoWindow();
+
+                initAirPollution()
+
+            }
+
+            function initAirPollution() {
+
+                const rangeSlider = $("#rangeSlider").val().split(";");
+                const fromYear    = rangeSlider[0];
+                const toYear      = rangeSlider[1];
+                
+                $.get('getNoisePollutions', { fromYear, toYear }, (res) => {
+                    airPollutions = res;
+                    dispalyHeatMap(res)
+                });
+            }
+
+            function dispalyHeatMap(pollutions) {
+                
+
+                for (const i in pollutions) {
+
+                    let lat = pollutions[i]['latitude'];
+                    let lng = pollutions[i]['longitude'];
+
+                    getLocation({ lat: parseFloat(lat), lng: parseFloat(lng) }, (res) => {
+                   
+                        if(res.city != null) {
+                            const circleMapObj = new google.maps.Circle({
+                                map,
+                                strokeOpacity: 0,
+                                strokeWeight: 2,
+                                fillColor: noisePollutionColor(pollutions[i]['volume']),
+                                fillOpacity: 0.2,
+                                country: res.country,
+                                city: res.city,
+                                volume: pollutions[i]['volume'],
+                                year: pollutions[i]['year'],
+                                center:  { lat: parseFloat(lat), lng: parseFloat(lng) },
+                                radius: Math.sqrt(pollutions[i]['volume']) * 3000,
+                            });
+
+                            noisePollutionMap.push(circleMapObj);
+                            showDialogue(circleMapObj)
+                        }
+                    });
+                }
+            }
+
+            function noisePollutionColor (val) {
+                if(10 > val) {
+                    return "#00ff00"
+                } else if( 20 < val &&  val < 50 ) {
+                    return "yellow"
+                } else  if( 60 < val &&  val < 80 ) {
+                    console.log(val);
+                    return "orange"
+                } else  if( 90 < val &&  val < 110 ) {
+                    return "darkorange"
+                } else if( 110 < val &&  val < 130 ) {
+                    return "red"
+                } else if(  val > 150 ) {
+                    return "darkred"
+                }
+            }
+
+
+            function showDialogue(circleMapObj) {
+                
+                // Configure the click listener.
+                circleMapObj.addListener("click", (mapsMouseEvent) => {
+
+                        // Close the current InfoWindow.
+                        infoWindow.close();
+                        // Create a new InfoWindow.
+                        infoWindow = new google
+                        .maps
+                        .InfoWindow({position: mapsMouseEvent.latLng});
+                        infoWindow.setContent(`
+                            <div style='padding:2px; line-height:20px'>
+                                country ${circleMapObj.country}<br>
+                                city ${circleMapObj.city}<br>
+                                volume ${circleMapObj['volume']} </br>
+                                Year ${circleMapObj['year']}
+                            <div>
+                        `)
+                        infoWindow.open(map);
+                   
+                });
+            }
+
+            function removeNoisePollutionMap() {
+                for (let i = 0; i < noisePollutionMap.length; i++) {
+                    noisePollutionMap[i].setMap(null);
+                }
+            }
+
+            $(function() {
+
+                $(document).on('change', '#rangeSlider',  (e) => {
+                    removeNoisePollutionMap();
+                    dispalyHeatMap(airPollutions);
+                })
+
+            });
+
+            function getLocation(latlng, callback) {
+
+                new google
+                    .maps
+                    .Geocoder()
+                    .geocode({
+                        'latLng': latlng
+                    }, function (results, status) {
+
+                        if (status == google.maps.GeocoderStatus.OK) {
+                            
+
+                            if (results[1]) {
+                                var country = null,
+                                    countryCode = null,
+                                    city = null,
+                                    cityAlt = null;
+                                var c,
+                                    lc,
+                                    component;
+                                for (var r = 0, rl = results.length; r < rl; r += 1) {
+                                    var result = results[r];
+
+                                    if (!city && result.types[0] === 'locality') {
+                                        for (c = 0, lc = result.address_components.length; c < lc; c += 1) {
+                                            component = result.address_components[c];
+
+                                            if (component.types[0] === 'locality') {
+                                                city = component.long_name;
+                                                break;
+                                            }
+                                        }
+                                    } else if (!city && !cityAlt && result.types[0] === 'administrative_area_level_1') {
+                                        for (c = 0, lc = result.address_components.length; c < lc; c += 1) {
+                                            component = result.address_components[c];
+
+                                            if (component.types[0] === 'administrative_area_level_1') {
+                                                cityAlt = component.long_name;
+                                                break;
+                                            }
+                                        }
+                                    } else if (!country && result.types[0] === 'country') {
+                                        country = result.address_components[0].long_name;
+                                        countryCode = result.address_components[0].short_name;
+
+                                    } 
+                                    if (city && country) {
+                                        break;
+                                    }
+                                }
+
+                                callback({city, cityAlt, country, countryCode});
+
+                            }
+                        }
+                    });
+                }
+
+            window.initMap = initMap;
+
+        </script>
+
+        <style>
+            #map {
+                height: 80%;
+                width: 60%;
+                right: 0;
+                float: right;
+                margin-top: 50px;
+                margin-right: 50px;
+            }
+
+            body,
+            html {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            .pollution-panel {
+                float: left;
+                height: 25%;
+                width: 30%;
+                padding: 50px;
+                margin-top: 50px;
+                margin-left: 50px;
+                min-height: 20px;
+                margin-bottom: 20px;
+                background-color: #f5f5f5;
+                border: 1px solid #e3e3e3;
+                border-radius: 4px;
+                -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+                box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+            }
+            .pollution-title {
+                font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+                font-weight: 500;
+                font-size: 1.5em;
+                line-height: 1.2;
+                color: #317eac;
+            }
+
+            .leaflet .legend i {
+                position: 'topleft';
+                border-radius: 50%;
+                width: 10px;
+                height: 10px;
+                margin-top: 4px;
+            }
+
+            .legend i {
+                width: 18px;
+                height: 18px;
+                margin-right: 4px;
+                opacity: 0.7;
+                display: inline-block;
+                vertical-align: top;
+                zoom: 1;
+                *display: inline;
+            }
+            .leaflet-control{
+                background-color: white;
+                padding: 20px;
+                width: 194px;
+                position: absolute;
+                height: 174px;
+                right: 52%;
+                z-index: 9;
+                bottom: 15%;
+                border-radius: 21px;   
+            }
+        </style>
+    </head>
+    <body>
+        <div class="pollution-panel">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom: 42px;margin-top: -43px;">
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                  <div class="navbar-nav">
+                    <a class="nav-item nav-link" href="/">Air Polltion</span></a>
+                    <a class="nav-item nav-link" href="/water">Water Polltion</a>
+                    <a class="nav-item nav-link active" href="/noise">Noise Polltion</a>
+                    <a class="nav-item nav-link" href="/soil">Soil Polltion</a>
+                  </div>
+                </div>
+            </nav>
+            <form class="row g-3">
+                <div class="col-md-12">
+                    <input type="text" class="js-range-slider" id="rangeSlider" value=""/>
+                </div>
+                <div class="info legend leaflet-control">
+                    <i style="background:#00ff00;opacity:0.8"></i> &lt;10<br>
+                    <i style="background:yellow;opacity:0.8"></i> 20-&lt;50<br>
+                    <i style="background:orange;opacity:0.8"></i> 60-&lt;80<br>
+                    <i style="background:darkorange;opacity:0.8"></i> 90-&lt;120<br>
+                    <i style="background:red;opacity:0.8"></i> 120-&lt;135<br>
+                    <i style="background:darkred;opacity:0.8"></i> &gt;150<br>
+                </div>
+            </form>
+        </div>
+        <div id="map"></div>
+        <script>
+            $(".js-range-slider").ionRangeSlider({
+                skin: "big",
+                type: "double",
+                min: 2010,
+                max: 2020,
+                from: 2010,
+                to: 2020,
+                step: 5,
+                grid: true, // show/hide grid
+                force_edges: false, // force UI in the box
+                hide_min_max: false, // show/hide MIN and MAX labels
+                hide_from_to: false, // show/hide FROM and TO labels
+                block: false // block instance from changing
+            });
+        </script>
+    </body>
+</html>
